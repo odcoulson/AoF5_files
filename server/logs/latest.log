@@ -1,0 +1,1856 @@
+[03:09:12] [main/INFO]: Loading Minecraft 1.18.2 with Fabric Loader 0.14.8
+[03:09:12] [ForkJoinPool-1-worker-7/WARN]: Mod extremesoundmuffler uses the version 3.27_fabric-1.18.1 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '27_fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[03:09:12] [ForkJoinPool-1-worker-1/WARN]: Mod bowinfinityfix uses the version rv11 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'rv11'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[03:09:12] [ForkJoinPool-1-worker-2/WARN]: Mod bcc uses the version fabric-1.0.5 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[03:09:12] [ForkJoinPool-1-worker-6/WARN]: Mod xps uses the version 0.4.1.r_for_1.18.x_Fabric which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'r_for_1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[03:09:12] [ForkJoinPool-1-worker-2/WARN]: Mod create uses the version mc1.18.2_v0.4.1+637 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'mc1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[03:09:12] [ForkJoinPool-1-worker-8/WARN]: Mod spectrum uses the version 1.4.2-1.18.2-chaos_and_exploration which isn't compatible with Loader's extended semantic version format (Invalid prerelease string '1.18.2-chaos_and_exploration'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[03:09:12] [ForkJoinPool-1-worker-7/WARN]: The mod "dwarfcoal" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 16 column 9
+[03:09:12] [ForkJoinPool-1-worker-6/WARN]: The mod "thonkutil-customization-v1" contains invalid entries in its mod json:
+- Unsupported root entry "disabled:mixins" at line 11 column 20
+[03:09:12] [ForkJoinPool-1-worker-2/WARN]: Mod registrate-fabric uses the version MC1.18.2-1.0.3 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'MC1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[03:09:12] [main/INFO]: Dependencies overridden for fallflyinglib, couplings, crusade, kubejs, incantationem, trinkets, universal-graves, survivalisland, artifice, morevillagers-fabric, riverredux, indrev, impaled, fabric-dimensions-v1, kibe, megane, server_translations_api, addendum, ctm, diggusmaximus, yungsapi, maybe-data, packages, noanglebrackets, structurized, playerabilitylib, fabric-blockrenderlayer-v1, totemmod, terrarianslimes, mo_glass, libblockattributes_items, promenade, respawnablepets, fabric, balm-fabric, dawn, dml-refabricated, flytre_lib, packet_tweaker, repurposed_structures, bitsandchisels, modmenu, eggtab, toolstats, shulkerutils, blockus, fabric-events-interaction-v0, mostructures, charmonium, enchantmentdescriptions, patchouli, mousewheelie, disable_custom_worlds_advice, mocolors, megane-runtime, betterstrongholds, expandedstorage, runelic, cardinal-components-entity, libblockattributes_fluids, architectury, cherishedworlds, authme, adorn, slotlock, cardinal-components-base, blast, golemsgalore, cpas, builtinservers, conjuring, charm, someforgepatchesported, aqupdgrizzly, fabric-item-groups-v0, bettermineshafts, geckolib3, darkpaintings, truerooms, fabric-renderer-api-v1, basicaiots, inventorysorter, notes, rhino, owo, ae2wtlib, placeholder-api, lithium, attributefix, harvest_scythes, redbits, waystones, clumps, myron, dual_riders, stoneholm, defaultsettings, wolveswitharmor, entitybanners, go-fish, lazydfu, strawdummy, reach-entity-attributes, lovely_snails, fabric-renderer-registries-v1, deathlog, quickshulker, ftbchunks, goml, artifality, libblockattributes_core, untitledduckmod, polymer, horsestatsvanilla, ktdatataglib, ratsmischief, woods_and_mires, jankson, additionaladditions, static-content, fabric-renderer-indigo, wirelessnetworks, simple-rpc, dark-loading-screen, hologram-api, kyrptconfig, libgui, biome_locator, xaerominimap, fabric-rendering-v0, croptopia, omega-config, sgui, spruceui, gateofbabylon, winged, ambientenvironment, cardinal-components-world, fabric-biome-api-v1, advanced_runtime_resource_pack, lifts, ferritecore, textile_backup, lakeside, betterf3, extragenerators, carrier, horseinfo, fake-player-api, secretrooms
+[03:09:12] [main/WARN]: Warnings were found!
+ - Mod 'Glassential' (glassential) 1.3.0 recommends version 0.18.0-alpha or later of mesh, which is missing!
+	 - You should install version 0.18.0-alpha or later of mesh for the optimal experience.
+ - Mod 'Omega Config GUI' (omega-config-gui) 1.2.3-1.18.1 recommends version 3.0.1 of modmenu, which is disabled for this environment (client/server only)!
+	 - You should install version 3.0.1 of modmenu for the optimal experience.
+ - Mod 'Overloaded Armor Bar' (overloadedarmorbar) 1.18.1-6 recommends version 1.1.7 or later of modupdater, which is missing!
+	 - You should install version 1.1.7 or later of modupdater for the optimal experience.
+[03:09:12] [main/INFO]: Loading 386 mods:
+	- additionaladditions 4.0.5
+	- additionalentityattributes 1.0.0+1.18.2 via spectrum
+	- adorn 3.5.0+1.18.2
+	- advanced_runtime_resource_pack 0.5.7
+	- advdebug 2.3.0
+	- adventurez 1.4.11
+	- ae2 11.1.3
+	- ae2things 1.1.0-beta.7
+	- ae2wtlib 11.1.2
+	- animal_feeding_trough 1.0.3+1.18.2
+	- appbot 1.2.1
+	- appleskin 2.4.0+mc1.18.2
+	- aqupdcaracal 1.18.2-1.3.8
+	- aqupdgrizzly 1.18-1.3
+	- arcanus 1.29
+	- architects_palette 2.2
+	- architectury 4.5.76
+	- artifacts 7.0.3+fabric
+	- attributefix 14.0.2
+	- auto-workstations 1.0-SNAPSHOT-12
+	- autoconfig1u 3.4.0
+	- badpackets 0.1.2
+	- balm-fabric 3.1.0+0
+	- bannerpp 2.0.6-teb.1+mc.1.18.2 via spectrum
+	- basicaiots 1.3.3+1.18.2
+	- bcc fabric-1.0.5
+	- beaconoverhaul 1.6.0+1.18.2
+	- better_bad_omen 1.3.0
+	- betterdeserttemples 1.18.2-Fabric-1.1.0
+	- betterdungeons 1.18.2-Fabric-2.1.0
+	- bettermineshafts 1.18.2-Fabric-2.2
+	- betterstrongholds 1.18.2-Fabric-2.1.1
+	- betterwitchhuts 1.18.2-Fabric-1.0.1
+	- bewitchment 1.18-22
+	- bhmenu 1.17.1-1.18.2-1.3
+	- biomemakeover 1.18.2-1.4.26
+	- bitsandchisels 2.6.13
+	- blast 1.9.1
+	- blockus 2.4.7+1.18.2
+	- blue_endless_jankson 1.2.1 via kyrptconfig
+	- bookshelf 13.2.21
+	- bosses_of_mass_destruction 1.3.7-1.18.2
+	- botania 1.18.2-434-FABRIC
+	- bowinfinityfix rv11
+	- buildinggadgets 1.0.22
+	- byg 1.4
+	- cacao 1.2
+	- campanion 3.0.3
+	- camsbackpacks 2.11
+	- capybara 1.0.6
+	- cardinal-components 4.2.0
+	- cardinal-components-base 4.2.0 via cardinal-components
+	- cardinal-components-block 4.2.0 via cardinal-components
+	- cardinal-components-chunk 4.2.0 via cardinal-components
+	- cardinal-components-entity 4.2.0 via cardinal-components
+	- cardinal-components-item 4.2.0 via cardinal-components
+	- cardinal-components-level 4.2.0 via cardinal-components
+	- cardinal-components-scoreboard 4.2.0 via cardinal-components
+	- cardinal-components-world 4.2.0 via cardinal-components
+	- carrier 1.10.0
+	- catwalksinc 1.3.0
+	- chalk 2.0.1+1.18.2
+	- chimes 1.1.1
+	- chisel 1.4.5
+	- clienttweaks 7.1.0
+	- cloth-api 3.2.64
+	- cloth-basic-math 0.6.1 via cloth-config
+	- cloth-client-events-v0 3.2.64 via cloth-api
+	- cloth-common-events-v1 3.2.64 via cloth-api
+	- cloth-config 6.2.62
+	- cloth-config-lite 2.0.6 via omega-config-gui
+	- cloth-datagen-api-v1 3.2.64 via cloth-api
+	- cloth-utils-v1 3.2.64 via cloth-api
+	- clumps 8.0.0+10
+	- com_electronwill_night-config_core 3.6.5 via couplings
+	- com_electronwill_night-config_toml 3.6.5 via couplings
+	- com_eliotlash_mclib_mclib 18 via geckolib3
+	- com_eliotlash_molang_molang 18 via geckolib3
+	- com_github_llamalad7_mixinextras 0.0.10 via porting_lib
+	- com_google_code_findbugs_jsr305 3.0.2 via create
+	- com_moandjiezana_toml_toml4j 0.7.2 via deepslatecutting
+	- com_typesafe_config 1.4.1 via croptopia
+	- companion 2.0.1
+	- computercraft 1.100.8
+	- conjuring 1.0.22+1.18
+	- couplings 1.8.0+1.18.2
+	- coxinhautilities 1.3+1.18.2
+	- craftingtweaks 14.0.3
+	- crawl 0.10.6
+	- create mc1.18.2_v0.4.1+637
+	- createplus 1.0
+	- creeperoverhaul 1.3.1
+	- croptopia 2.0.5
+	- croptosis 1.5.0
+	- cyti 1.0.5
+	- dankstorage 1.18.2-3.7
+	- dark-enchanting 1.0.0+1.18.2
+	- darkpaintings 10.0.3
+	- darkutils 10.0.5
+	- dawn 3.3.2
+	- deathlog 0.2.9+1.18
+	- decorative_blocks 2.1.0
+	- deepslatecutting 1.3.4
+	- defaultoptions 14.1.1
+	- display_case 1.0.0
+	- dml-refabricated 1.18.2
+	- dml-refabricated-base 1.18.2 via dml-refabricated
+	- dml-refabricated-events 1.18.2 via dml-refabricated
+	- dml-refabricated-modular-armor 1.18.2 via dml-refabricated
+	- dml-refabricated-rei 1.18.2 via dml-refabricated
+	- dmlsimulacrum 0.5.4-beta
+	- dragonloot 1.1.0
+	- dripstone_fluid_lib 1.2.0 via milk
+	- dual_riders 1.1.1
+	- duckling 1.0.5
+	- dusk 1.18.2-2.1
+	- dustrial_decor 0.5
+	- dwarfcoal 1.18.1-1.0.1
+	- ecologics 1.7.2
+	- ellemes_container_lib 1.4.0-beta.2
+	- elytratrinket 3.0.0-1.18.1
+	- enchancement 1.18-18
+	- entitybanners 1.0.2-BETA+1.18
+	- expandability 6.0.0 via artifacts
+	- expandedstorage 7.4.0-beta.4
+	- experiencebugfix 18
+	- extraalchemy 1.8.1
+	- extragenerators 1.2.1-BETA+1.18
+	- extremesoundmuffler 3.27_fabric-1.18.1
+	- fabric 0.57.0+1.18.2
+	- fabric-api-base 0.4.4+d7c144a860 via fabric
+	- fabric-api-lookup-api-v1 1.6.2+2373a54560 via fabric
+	- fabric-biome-api-v1 8.0.6+651bcc5960 via fabric
+	- fabric-command-api-v1 1.1.9+d7c144a860 via fabric
+	- fabric-commands-v0 0.2.8+b4f4f6cd60 via fabric
+	- fabric-containers-v0 0.1.22+d7c144a860 via fabric
+	- fabric-content-registries-v0 3.1.1+c85f2e3860 via fabric
+	- fabric-convention-tags-v1 1.0.1+474e4f7960 via fabric
+	- fabric-crash-report-info-v1 0.2.1+ee261a3e60 via fabric
+	- fabric-data-generation-api-v1 3.0.0+9fcb91d260 via fabric
+	- fabric-dimensions-v1 2.1.20+489d6f8260 via fabric
+	- fabric-entity-events-v1 1.4.8+d7c144a860 via fabric
+	- fabric-events-interaction-v0 0.4.19+d7c144a860 via fabric
+	- fabric-events-lifecycle-v0 0.2.18+d7c144a860 via fabric
+	- fabric-game-rule-api-v1 1.0.13+d7c144a860 via fabric
+	- fabric-item-api-v1 1.5.1+6c4e5d0960 via fabric
+	- fabric-item-groups-v0 0.3.14+91896a4960 via fabric
+	- fabric-language-kotlin 1.8.1+kotlin.1.7.0
+	- fabric-lifecycle-events-v1 2.1.0+cc71601c60 via fabric
+	- fabric-loot-api-v2 1.1.0+1997ad1260 via fabric
+	- fabric-loot-tables-v1 1.1.2+e747827960 via fabric
+	- fabric-mining-level-api-v1 2.1.4+cc71601c60 via fabric
+	- fabric-networking-api-v1 1.0.22+e6b169eb60 via fabric
+	- fabric-networking-v0 0.3.9+b4f4f6cd60 via fabric
+	- fabric-object-builder-api-v1 2.1.3+032c981d60 via fabric
+	- fabric-particles-v1 0.2.12+526dc1ac60 via fabric
+	- fabric-permissions-api-v0 0.1-SNAPSHOT via spark
+	- fabric-registry-sync-v0 0.9.9+0d9ab37260 via fabric
+	- fabric-rendering-data-attachment-v1 0.3.7+d7c144a860 via fabric
+	- fabric-rendering-fluids-v1 2.0.2+54e5b2ec60 via fabric
+	- fabric-resource-conditions-api-v1 2.0.3+91b7aa6660 via fabric
+	- fabric-resource-loader-v0 0.5.2+446e059560 via fabric
+	- fabric-screen-handler-api-v1 1.2.1+1f6558e860 via fabric
+	- fabric-transfer-api-v1 1.6.3+f4563ac860 via fabric
+	- fabric-transitive-access-wideners-v1 1.1.0+e747827960 via fabric
+	- fabricaeexnihilo 0.1.6+mc1.18.2
+	- fabricloader 0.14.8
+	- fake-player-api 0.3.0 via create
+	- farmersdelight 1.18.2-0.2.1
+	- farmingforblockheads 10.0.2
+	- feature_nbt_deadlock_be_gone 2.0.0+1.18.2-rc1
+	- ferritecore 4.2.1
+	- fiber 0.23.0-2 via extremesoundmuffler
+	- findme 3.0.6
+	- floral_flair 1.3.0
+	- flytre_lib 1.8.1
+	- forge_tags 2.1 via create
+	- forgeconfigapiport 3.2.0
+	- ftbchunks 1802.3.6-build.147
+	- ftblibrary 1802.3.6-build.123
+	- ftbquests 1802.3.8-build.101
+	- ftbteams 1802.2.6-build.51
+	- ftbultimine 1802.3.3-build.55
+	- gateofbabylon 1.7.0-1.18.2
+	- geckolib3 3.0.50
+	- geodes 1.4.2
+	- glassential 1.3.0
+	- go-fish 1.5.0-1.18.2
+	- goblintraders 1.5.1
+	- goldenhoppers 1.3.3
+	- goodall 1.0.2
+	- graveyard 1.9
+	- graveyard_biomes 1.1
+	- guardvillagers 1.18.2-1.0.14
+	- guild 0.4.0
+	- harvest_scythes 2.5.1
+	- horseinfo 0.4.1-1.18
+	- iceberg 1.0.38
+	- impaled 1.1.3
+	- impersonate 2.4.1 via bewitchment
+	- improved-stations 2.1.0
+	- incantationem 1.1.3+1.18.2
+	- incubus_core 1.7-rc.4 via spectrum
+	- indrev 1.14.0-BETA
+	- infusion_table 1.1.0
+	- inmis 2.6.0-1.18.2
+	- inventorysorter 1.8.8-1.18
+	- io_leangen_geantyref_geantyref 1.3.11 via croptopia
+	- iron-jetpacks 0.4.3
+	- itemfilters 1802.2.7-build.21
+	- jamlib 0.0.5
+	- jankson 4.0.0+j1.2.0 via libgui
+	- java 17
+	- javax_annotation_javax_annotation-api 1.3.2 via twilightforest
+	- kanos_config 0.3.1+1.14.4-1.19 via pehkui
+	- kibe 1.9.8-BETA+1.18
+	- kjsextras 3.0.0
+	- kleeslabs 11.1.1
+	- ktdatataglib 1.6.5+1.18.2 via dmlsimulacrum
+	- kubejs 1802.5.4-build.508
+	- kubejs_create 1802.2.2-build.26
+	- kyrptconfig 1.4.6-1.18 via inventorysorter
+	- lazydfu 0.1.2
+	- libblockattributes_core 0.10.0 via indrev
+	- libblockattributes_fluids 0.10.0 via indrev
+	- libblockattributes_items 0.10.0 via indrev
+	- libgui 5.4.0+1.18.2 via dark-enchanting
+	- libninepatch 1.1.0 via libgui
+	- lifts 1.4.1-BETA+1.18
+	- lithium 0.7.10
+	- logprot 1.18-1.6
+	- lootr 0.3.20.57
+	- lovely_snails 1.0.4+1.18
+	- maelstrom_library 1.2.4-1.18.2 via bosses_of_mass_destruction
+	- magicalforest 2.0.3
+	- magna 1.7.0-1.18-pre1 via vanillaexcavators
+	- maybe-data 1.3.1-1.18.2 via deepslatecutting
+	- mcwbridges 2.0.3
+	- mcwdoors 1.0.6
+	- mcwfences 1.0.5
+	- mcwlights 1.0.3
+	- mcwpaintings 1.0.3
+	- mcwpaths 1.0.0
+	- mcwroofs 2.1.2
+	- mcwtrpdoors 1.0.6
+	- mcwwindows 2.0.3
+	- megane 7.7.2
+	- megane-api 7.7.2 via megane
+	- megane-applied-energistics-2 7.7.2 via megane
+	- megane-create 7.7.2 via megane
+	- megane-deep-mob-learning-simulacrum 7.7.2 via megane
+	- megane-extra-generators 7.7.2 via megane
+	- megane-fabric-transfer 7.7.2 via megane
+	- megane-industrial-revolution 7.7.2 via megane
+	- megane-kibe 7.7.2 via megane
+	- megane-lib-block-attributes 7.7.2 via megane
+	- megane-reborn-core 7.7.2 via megane
+	- megane-reborn-energy 7.7.2 via megane
+	- megane-runtime 7.7.2 via megane
+	- megane-tech-reborn 7.7.2 via megane
+	- megane-vanilla 7.7.2 via megane
+	- megane-wireless-networks 7.7.2 via megane
+	- milk 0.3.2 via create
+	- minecarttweaks 1.5
+	- minecraft 1.18.2
+	- mm 2.3 via buildinggadgets
+	- mobscarecrow 2.1.0
+	- mocolors 1.4.0
+	- modern_industrialization 1.2.1
+	- moderndynamics 0.2.3-beta
+	- morevillagers 3.3.2
+	- mostructures 1.4.2+1.18.2
+	- mtmechs 1.0.12
+	- multipart_entities 1.1.5-1.18.2 via bosses_of_mass_destruction
+	- mythicmounts 1.18.2-7.0
+	- naturescompass 1.18.2-2.0.3-fabric
+	- nears 1.1.8
+	- netherportalfix 9.0.0
+	- no_angled_brackets 1.0.0
+	- no_null_processors 2.0.1+1.18.1
+	- omega-config 1.2.3-1.18.1 via inmis
+	- omega-config-gui 1.2.3-1.18.1 via coxinhautilities
+	- onastick 2.0.0
+	- openloader 12.0.1
+	- org_jetbrains_kotlin_kotlin-reflect 1.7.0 via fabric-language-kotlin
+	- org_jetbrains_kotlin_kotlin-stdlib 1.7.0 via fabric-language-kotlin
+	- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.7.0 via fabric-language-kotlin
+	- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.7.0 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_atomicfu-jvm 0.18.0 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.6.3 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.6.3 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.4.0 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.3.3 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.3.3 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.3.3 via fabric-language-kotlin
+	- org_spongepowered_configurate-core 4.1.2 via croptopia
+	- org_spongepowered_configurate-hocon 4.1.2 via croptopia
+	- overloadedarmorbar 1.18.1-6
+	- owo 0.7.2-no-cme+1.18
+	- patchouli 1.18.2-71.1-FABRIC
+	- pehkui 3.3.3+1.14.4-1.19.1
+	- peripheralium 0.1.1
+	- peripheralworks 0.1.2
+	- phosphor 0.8.1
+	- pigpen 8.0.1
+	- playerabilitylib 1.5.0 via kibe
+	- plushies 1.2
+	- porting_lib 1.1.342-beta+1.18.2-dev.dd61cdc via twilightforest
+	- probablychests 0.4.3
+	- promenade 2.6.3
+	- pyrotastic 1.18.2+0.0.2
+	- questsadditions 1.3.1
+	- quickshulker 1.3.6-1.18
+	- rare-ice 0.4.1
+	- reach-entity-attributes 2.1.1 via beaconoverhaul
+	- reborncore 5.2.0
+	- redstonebits 1.8.2
+	- registrate-fabric MC1.18.2-1.0.3 via create
+	- repurposed_structures 4.1.14+1.18.2
+	- respawnablepets 1.18-4
+	- rhino 1802.1.14-build.190
+	- rightclickharvest 2.1.1
+	- roughlyenoughitems 8.3.501
+	- roughlyenoughprofessions 1.0.1
+	- roughlyenoughresources 2.5.0
+	- runelic 11.0.1
+	- secretrooms 1.3.1+1.18.2
+	- serialization_hooks 0.2.0+1.18.f5d4aa6 via porting_lib
+	- shulkerboxtooltip 3.0.10+1.18.2
+	- shulkerutils 1.0.4-1.18 via quickshulker
+	- simpleteleporters 2.3.0
+	- simplevoidworld 4.0.0
+	- slimyfloor 1.18-1.2.2
+	- smootherbedrock 1.0.4
+	- smwyg 1.0.1
+	- someforgepatchesported 1.0.3
+	- spark 1.9.11
+	- spectrum 1.4.2-1.18.2-chaos_and_exploration
+	- stacc 1.2.3 via bitsandchisels
+	- staffofbuilding 1.4.1-1.18.1
+	- static-content 1.0.2-1.16.2 via vanilla-hammers
+	- staticdata 1.1.2 via static-content
+	- step-height-entity-attribute 1.0.0 via botania
+	- stoneholm 1.4.3
+	- strawdummy 1.7.0
+	- team_reborn_energy 2.2.0 via coxinhautilities
+	- techreborn 5.2.0
+	- terrablender 1.1.0.102
+	- terraform-shapes-api-v1 2.1.0 via promenade
+	- terraform-wood-api-v1 3.0.0 via blockus
+	- terrarianslimes 1.2.1-BETA+1.18
+	- thatched 1.1.0
+	- thonkutil 2.14.1+1.18
+	- thonkutil-base 1.12.2+23c1dc2c60 via thonkutil
+	- thonkutil-capes-v1 1.3.2+9e23427060 via thonkutil
+	- thonkutil-customization-v1 1.0.14+9b80223760 via thonkutil
+	- thonkutil-legacy 1.0.20+9b80223760 via thonkutil
+	- thonkutil-modchecker-v1 1.0.12+9b80223760 via thonkutil
+	- thonkutil-potions-v0 1.4.1+9b80223760 via thonkutil
+	- thonkutil-trades-v1 1.1.20+9b80223760 via thonkutil
+	- timeoutout 1.0.1+1.18
+	- toolstats 9.0.3
+	- totemmod 0.3.5-1.18.2-pre2
+	- totw_additions 1.2.1
+	- transportables 1.2
+	- trapexpansion 1.3.3
+	- trashslot 11.0.2
+	- trinketofundying 2.0.1-1.18
+	- trinkets 3.3.1
+	- twigs 1.1.3-patch2+1.18.2
+	- twilightforest 4.1.251
+	- updatefixerupper 1.0.0
+	- vanilla-hammers 3.4.0-1.18.2
+	- vanillaexcavators 1.1.0
+	- villager-hats 1.4.0
+	- voidtotem 1.18.2-1.3.1
+	- waystones 2.5.4
+	- wirelessnetworks 1.5.1
+	- wolveswitharmor 1.7.1-1.18.2
+	- wthit 4.11.0
+	- xlpackets 2.1-1.17.1
+	- xps 0.4.1.r_for_1.18.x_Fabric
+	- yigd 1.3.7
+	- yungsapi 1.18.2-Fabric-2.0.8
+	- yungsbridges 1.18.2-Fabric-2.1.0
+	- yungsextras 1.18.2-Fabric-2.1.0
+[03:09:13] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/mc/AoF5/server/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[03:09:13] [main/INFO]: Compatibility level set to JAVA_16
+[03:09:13] [main/INFO]: Compatibility level set to JAVA_17
+[03:09:13] [main/WARN]: Reference map 'Applied-Botanics-refmap.json' for appbot.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:09:13] [main/WARN]: Reference map 'chimes-refmap.json' for chimes.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:09:13] [main/WARN]: Reference map 'dual_riders-1.18.2-1.1.1-fabric-refmap.json' for dual_riders-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:09:13] [main/WARN]: Reference map 'fabric-experiencebugfix-1.18-refmap.json' for experiencebugfix.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:09:13] [main/WARN]: Reference map 'Floral-Flair-refmap.json' for floral_flair.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:09:13] [main/WARN]: Reference map 'goodall-fabric-refmap.json' for goodall.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:09:13] [main/WARN]: Reference map 'JamLib-refmap.json' for jamlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:09:13] [main/INFO]: Loaded configuration file for Lithium: 102 options available, 1 override(s) found
+[03:09:13] [main/WARN]: Reference map 'Modern-Dynamics-refmap.json' for moderndynamics.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:09:13] [main/WARN]: Reference map 'morevillagers-fabric-fabric-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:09:13] [main/WARN]: Reference map 'Peripheralium-refmap.json' for peripheralium.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:09:13] [main/WARN]: Reference map 'peripheralworks-refmap.json' for peripheralworks.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:09:13] [main/WARN]: Reference map 'probablychests-refmap.json' for probablychests.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:09:13] [main/WARN]: Reference map 'yungsbridges.refmap.json' for yungsbridges.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:09:13] [main/WARN]: Reference map 'yungsbridges.refmap.json' for yungsbridges_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:09:13] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:09:13] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:09:14] [main/WARN]: Error loading class: net/minecraft/class_572 (java.lang.ClassNotFoundException: net/minecraft/class_572)
+[03:09:14] [main/WARN]: @Mixin target net.minecraft.class_572 was not found porting_lib.mixins.common.json:accessor.HumanoidModelAccessor from mod porting_lib
+[03:09:14] [main/WARN]: Error loading class: io/github/apace100/apoli/power/factory/condition/ConditionFactory (java.lang.ClassNotFoundException: io/github/apace100/apoli/power/factory/condition/ConditionFactory)
+[03:09:14] [main/WARN]: @Mixin target io.github.apace100.apoli.power.factory.condition.ConditionFactory was not found mixins.artifacts.json:compat.origins.ConditionFactoryAccessor from mod artifacts
+[03:09:14] [main/WARN]: Error loading class: net/minecraft/class_465 (java.lang.ClassNotFoundException: net/minecraft/class_465)
+[03:09:14] [main/WARN]: @Mixin target net.minecraft.class_465 was not found findme-common.mixins.json:MixinSlotRenderer from mod findme
+[03:09:14] [main/WARN]: Error loading class: net/minecraft/class_702 (java.lang.ClassNotFoundException: net/minecraft/class_702)
+[03:09:14] [main/WARN]: @Mixin target net.minecraft.class_702 was not found findme-common.mixins.json:ParticleEngineAccessor from mod findme
+[03:09:14] [main/WARN]: Error loading class: net/minecraft/class_304 (java.lang.ClassNotFoundException: net/minecraft/class_304)
+[03:09:14] [main/WARN]: @Mixin target net.minecraft.class_304 was not found ftblibrary-fabric.mixins.json:KeyMappingAccessor from mod ftblibrary
+[03:09:14] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[03:09:14] [main/WARN]: @Mixin target net.minecraft.class_906 was not found go-fish.mixins.json:FishingBobberEntityRendererMixin from mod go-fish
+[03:09:14] [main/WARN]: Error loading class: net/minecraft/class_702 (java.lang.ClassNotFoundException: net/minecraft/class_702)
+[03:09:14] [main/WARN]: @Mixin target net.minecraft.class_702 was not found go-fish.mixins.json:ParticleManagerMixin from mod go-fish
+[03:09:14] [main/WARN]: Error loading class: net/minecraft/class_998 (java.lang.ClassNotFoundException: net/minecraft/class_998)
+[03:09:14] [main/WARN]: @Mixin target net.minecraft.class_998 was not found impaled.mixins.json:TridentRiptideFeatureRendererMixin from mod impaled
+[03:09:14] [main/WARN]: Error loading class: net/minecraft/class_1007 (java.lang.ClassNotFoundException: net/minecraft/class_1007)
+[03:09:14] [main/WARN]: @Mixin target net.minecraft.class_1007 was not found inmis.mixins.json:client.PlayerEntityFeatureMixin from mod inmis
+[03:09:14] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[03:09:14] [main/WARN]: Error loading class: net/minecraft/class_5382 (java.lang.ClassNotFoundException: net/minecraft/class_5382)
+[03:09:14] [main/WARN]: @Mixin target net.minecraft.class_5382 was not found no_null_processors.mixins.json:RegistryReadOpsMixin from mod no_null_processors
+[03:09:14] [main/WARN]: Error loading class: net/minecraft/class_5616 (java.lang.ClassNotFoundException: net/minecraft/class_5616)
+[03:09:14] [main/WARN]: @Mixin target net.minecraft.class_5616 was not found registrate-fabric.mixins.json:accessor.BlockEntityRenderersAccessor from mod registrate-fabric
+[03:09:14] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[03:09:14] [main/WARN]: @Mixin target net.minecraft.class_906 was not found spectrum.mixins.json:FishingBobberEntityRendererMixin from mod spectrum
+[03:09:14] [main/WARN]: Error loading class: net/minecraft/class_763 (java.lang.ClassNotFoundException: net/minecraft/class_763)
+[03:09:14] [main/WARN]: @Mixin target net.minecraft.class_763 was not found spectrum.mixins.json:ItemModelsMixin from mod spectrum
+[03:09:15] [main/WARN]: Error loading class: net/minecraft/class_1163 (java.lang.ClassNotFoundException: net/minecraft/class_1163)
+[03:09:15] [main/WARN]: @Mixin target net.minecraft.class_1163 was not found mixins.mm.json:net.minecraft.class_1163 from mod mm
+[03:09:15] [main/WARN]: Error loading class: net/minecraft/class_1142 (java.lang.ClassNotFoundException: net/minecraft/class_1142)
+[03:09:15] [main/WARN]: @Mixin target net.minecraft.class_1142 was not found mixins.mm.json:net.minecraft.class_1142 from mod mm
+[03:09:15] [main/WARN]: Error loading class: net/minecraft/class_898 (java.lang.ClassNotFoundException: net/minecraft/class_898)
+[03:09:15] [main/WARN]: @Mixin target net.minecraft.class_898 was not found mixins.mm.json:net.minecraft.class_898 from mod mm
+[03:09:15] [main/WARN]: Error loading class: net/minecraft/class_761 (java.lang.ClassNotFoundException: net/minecraft/class_761)
+[03:09:15] [main/WARN]: @Mixin target net.minecraft.class_761 was not found mixins.mm.json:net.minecraft.class_761 from mod mm
+[03:09:15] [main/WARN]: Error loading class: net/minecraft/class_759 (java.lang.ClassNotFoundException: net/minecraft/class_759)
+[03:09:15] [main/WARN]: @Mixin target net.minecraft.class_759 was not found mixins.mm.json:net.minecraft.class_759 from mod mm
+[03:09:15] [main/INFO]: I used the json to destroy the json
+[03:09:20] [main/INFO]: Trying to read config file...
+[03:09:20] [main/INFO]: A config file was found, loading it..
+[03:09:20] [main/INFO]: Successfully loaded config file.
+[03:09:20] [main/ERROR]: No data fixer registered for marker
+[03:09:20] [main/WARN]: @ModifyConstant conflict. Skipping yungsapi.mixins.json:IncreaseStructureWeightLimitMixin from mod yungsapi->@ModifyConstant::yungsapi_increaseWeightLimit(I)I with priority 1000, already redirected by repurposed_structures.mixins.json:structures.StructurePoolMixin from mod repurposed_structures->@ModifyConstant::repurposedstructures_increaseWeightLimitProd(I)I with priority 1000
+[03:09:22] [main/INFO]: [Animal Feeding Trough] Load Complete! Enjoy :D
+[03:09:22] [main/INFO]: [AqUpd's mobs] Caracal mod is loaded!
+[03:09:22] [main/INFO]: [AqUpd's Mobs] Grizzly Bears mod is loaded!
+[03:09:23] [main/INFO]: imagine people still looking for these :hahayes:
+[03:09:23] [main/INFO]: Finished initialization
+[03:09:23] [main/INFO]: Basic AIOTs initialized successfully.
+[03:09:23] [main/INFO]: Loading config file
+[03:09:23] [main/INFO]: Config file loaded
+[03:09:24] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[03:09:24] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[03:09:24] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[03:09:24] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[03:09:24] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[03:09:24] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[03:09:24] [main/ERROR]: No data fixer registered for botania:mana_burst
+[03:09:24] [main/ERROR]: No data fixer registered for botania:pixie
+[03:09:24] [main/ERROR]: No data fixer registered for botania:flame_ring
+[03:09:24] [main/ERROR]: No data fixer registered for botania:vine_ball
+[03:09:24] [main/ERROR]: No data fixer registered for botania:doppleganger
+[03:09:24] [main/ERROR]: No data fixer registered for botania:magic_landmine
+[03:09:24] [main/ERROR]: No data fixer registered for botania:spark
+[03:09:24] [main/ERROR]: No data fixer registered for botania:thrown_item
+[03:09:24] [main/ERROR]: No data fixer registered for botania:magic_missile
+[03:09:24] [main/ERROR]: No data fixer registered for botania:thorn_chakram
+[03:09:24] [main/ERROR]: No data fixer registered for botania:corporea_spark
+[03:09:24] [main/ERROR]: No data fixer registered for botania:ender_air_bottle
+[03:09:24] [main/ERROR]: No data fixer registered for botania:pool_minecart
+[03:09:24] [main/ERROR]: No data fixer registered for botania:pink_wither
+[03:09:24] [main/ERROR]: No data fixer registered for botania:player_mover
+[03:09:24] [main/ERROR]: No data fixer registered for botania:mana_storm
+[03:09:24] [main/ERROR]: No data fixer registered for botania:babylon_weapon
+[03:09:24] [main/ERROR]: No data fixer registered for botania:falling_star
+[03:09:24] [main/ERROR]: No data fixer registered for botania:ender_air
+[03:09:24] [main/INFO]: BYG registries bootstrapped
+[03:09:25] [main/ERROR]: No data fixer registered for byg:boat
+[03:09:25] [main/INFO]: Initializing BYG network...
+[03:09:25] [main/INFO]: Initialized BYG network!
+[03:09:25] [main/INFO]: Oh The Biomes You'll Go (BYG) was initialized from "Fabric Mod Initializer"
+[03:09:25] [main/INFO]: Capybara is downloaded, loading now! Thanks for installing! <3
+[03:09:25] [main/INFO]: [Chalk] Registering blocks and items...
+[03:09:25] [main/INFO]: [Chalk] Startup finished!
+[03:09:26] [main/WARN]: No features are enabled, this could be a bug!
+[03:09:26] [main/WARN]: Encountered duplicate API provider registration for item: minecraft:bucket
+[03:09:26] [main/WARN]: Encountered duplicate API provider registration for item: minecraft:glass_bottle
+[03:09:26] [main/WARN]: Encountered duplicate API provider registration for item: minecraft:bucket
+[03:09:26] [main/WARN]: Encountered duplicate API provider registration for item: minecraft:glass_bottle
+[03:09:26] [main/WARN]: Encountered duplicate API provider registration for item: minecraft:bucket
+[03:09:27] [main/INFO]: [Croptosis] has been initiated.
+[03:09:27] [main/INFO]: The trashcans has been loaded!
+[03:09:27] [main/ERROR]: No data fixer registered for decorative_blocks:dummy
+[03:09:27] [main/INFO]: Loaded Config! Regular deepslate extras are OFF
+[03:09:27] [main/INFO]: Deep Mob Learning: Refabricated is good to go
+[03:09:27] [main/INFO]: Trying to read config file...
+[03:09:27] [main/INFO]: A config file was found, loading it..
+[03:09:27] [main/INFO]: Successfully loaded config file.
+[03:09:27] [main/INFO]: Dusk initialized
+[03:09:27] [main/INFO]: ExpandAbility here, who dis?
+[03:09:27] [main/INFO]: Registering pehkui effects
+[03:09:27] [main/INFO]: Registered 16 status effects
+[03:09:27] [main/INFO]: Registered dummy effects
+[03:09:27] [main/INFO]: Registering pehkui potions
+[03:09:27] [main/INFO]: Registered 39 potions
+[03:09:27] [main/INFO]: Registering pehkui recipes
+[03:09:27] [main/INFO]: Trying to read config file...
+[03:09:27] [main/INFO]: A config file was found, loading it..
+[03:09:27] [main/INFO]: Successfully loaded config file.
+[03:09:27] [main/WARN]: Encountered duplicate API provider registration for item: minecraft:milk_bucket
+[03:09:27] [main/ERROR]: No data fixer registered for farmingforblockheads:merchant
+[03:09:28] [main/INFO]: Beginning More Geodes initialization
+[03:09:28] [main/INFO]: More Geodes initialized!
+[03:09:28] [main/INFO]: [Hwyla Addon Horse Info] Initializing Hwyla Addon Horse Info
+[03:09:28] [main/INFO]: Industrial Revolution has initialized.
+[03:09:28] [main/INFO]: JamLib has been initialized
+[03:09:28] [main/INFO]: creating Trinket AbilityRing for minecraft:mayfly
+[03:09:28] [main/INFO]: creating Trinket AbilityRing for kibe:magma_ability
+[03:09:28] [main/INFO]: creating Trinket AbilityRing for kibe:water_ability
+[03:09:28] [main/INFO]: Trying to read config file...
+[03:09:28] [main/INFO]: A config file was found, loading it..
+[03:09:28] [main/INFO]: Successfully loaded config file.
+[03:09:28] [main/WARN]: Encountered duplicate API provider registration for item: minecraft:glass_bottle
+[03:09:28] [main/INFO]: Looking for KubeJS plugins...
+[03:09:28] [main/INFO]: Found plugin source kubejs
+[03:09:28] [main/INFO]: Found plugin source kubejs_create
+[03:09:28] [main/INFO]: Found plugin source fabricaeexnihilo
+[03:09:28] [main/INFO]: Found plugin source ftbchunks
+[03:09:28] [main/INFO]: Found plugin source ftbquests
+[03:09:28] [main/INFO]: Found plugin source modern_industrialization
+[03:09:28] [main/INFO]: Done in 84.55 ms
+[03:09:28] [main/INFO]: Loaded common.properties
+[03:09:33] [main/INFO]: Loaded script startup_scripts:aof5_logo.js in 0.042 s
+[03:09:33] [main/INFO]: Loaded script startup_scripts:worldgen.js in 0.001 s
+[03:09:33] [main/INFO]: Loaded 2/2 KubeJS startup scripts in 0.172 s
+[03:09:33] [main/INFO]: Trying to read config file...
+[03:09:33] [main/INFO]: A config file was found, loading it..
+[03:09:33] [main/INFO]: Successfully loaded config file.
+[03:09:33] [main/INFO]: Shields up!
+[03:09:33] [main/INFO]: Lootr is installed, loading now! Thanks for installing! <3
+[03:09:33] [main/INFO]: Registering ModBlocks for mcwbridges
+[03:09:33] [main/INFO]: Registering Mod Items for mcwbridges
+[03:09:33] [main/INFO]: Registering ModBlocks for mcwdoors
+[03:09:33] [main/INFO]: Registering Mod Items for mcwdoors
+[03:09:33] [main/INFO]: Registering ModBlocks for mcwfences
+[03:09:33] [main/INFO]: Registering ModBlocks for mcwlights
+[03:09:33] [main/INFO]: Registering Paintings for mcwpaintings
+[03:09:33] [main/INFO]: Registering ModBlocks for mcwpaths
+[03:09:33] [main/INFO]: Registering ModBlocks for mcwroofs
+[03:09:33] [main/INFO]: Registering Mod Items for mcwroofs
+[03:09:33] [main/INFO]: Registering ModBlocks for mcwtrpdoors
+[03:09:33] [main/INFO]: Registering Mod Items for mcwtrpdoors
+[03:09:33] [main/INFO]: Registering ModBlocks for mcwwindows
+[03:09:33] [main/INFO]: Registering Mod Items for mcwwindows
+[03:09:33] [main/INFO]: Definitely not up to no good
+[03:09:33] [main/INFO]: [Mob-Scarecrow] is initializing.
+[03:09:33] [main/INFO]: [Mob-Scarecrow] has successfully been initialized.
+[03:09:33] [main/INFO]: [Mob-Scarecrow] if you have any issues or questions feel free to join my Discord: https://discord.gg/fvcFxTg6sB
+[03:09:33] [main/INFO]: Setting up Nuclear Items
+[03:09:33] [main/INFO]: Modern Industrialization setup done!
+[03:09:33] [main/INFO]: Successfully loaded Modern Dynamics!
+[03:09:34] [main/INFO]: Let there be nears!
+[03:09:34] [main/INFO]: Initializing On A Stick
+[03:09:34] [main/INFO]: Initialized On A Stick
+[03:09:34] [main/INFO]: Loading integration for team_reborn_energy
+[03:09:34] [main/INFO]: [Probably-Chests] is initializing.
+[03:09:34] [main/INFO]: [Probably-Chests] has successfully been initialized.
+[03:09:34] [main/INFO]: [Probably-Chests] if you have any issues or questions feel free to join my Discord: https://discord.gg/fvcFxTg6sB
+[03:09:34] [main/INFO]: registering for pyrotastic
+[03:09:34] [main/INFO]: Redstone Bits config version 1
+[03:09:34] [main/INFO]: Initializing RightClickHarvest...
+[03:09:34] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[03:09:34] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[03:09:34] [main/WARN]: The entrypoint used by Adorn, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Adorn. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Adorn, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/INFO]: [REI] Registered plugin provider AdornReiServer [adorn] for REIPlugin
+[03:09:34] [main/WARN]: The entrypoint used by AppleSkin, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by AppleSkin. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Create, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Create. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Decorative Blocks, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/INFO]: [REI] Registered plugin provider DBServerPlugin [decorative_blocks] for REIPlugin
+[03:09:34] [main/WARN]: The entrypoint used by Decorative Blocks, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Decorative Blocks. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Ellemes' Container Library, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Ellemes' Container Library. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by FTB Quests, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by FTB Quests. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Improved Stations, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/INFO]: [REI] Registered plugin provider ImprovedStationsREIContainerInfo [improved-stations] for REIPlugin
+[03:09:34] [main/WARN]: The entrypoint used by Improved Stations, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Improved Stations. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Industrial Revolution, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Industrial Revolution. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Roughly Enough Professions, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Roughly Enough Professions. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Roughly Enough Resources, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Roughly Enough Resources. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Tech Reborn, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Tech Reborn. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by The Twilight Forest, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by The Twilight Forest. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by wthit, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by wthit. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Applied Energistics 2, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Applied Energistics 2. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by AE2Things, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by AE2Things. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by AE2WTLib, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by AE2WTLib. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Artifacts, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Artifacts. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Basic AIOTs, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Basic AIOTs. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Bewitchment, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Bewitchment. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by BitsAndChisels, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by BitsAndChisels. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Catwalks Inc., "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Catwalks Inc.. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Chisel Refabricated, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Chisel Refabricated. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Conjuring, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Conjuring. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Conjuring, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/INFO]: [REI] Registered plugin provider ConjuringCommonPlugin [conjuring] for REIPlugin
+[03:09:34] [main/WARN]: The entrypoint used by Coxinha Utilities, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Coxinha Utilities. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Crafting Tweaks, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Crafting Tweaks. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by DML: Refabricated - REI Integration, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by DML: Refabricated - REI Integration. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by FabricaeExNihilo, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by FabricaeExNihilo. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Farmer's Delight, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Farmer's Delight. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by FTB Library, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by FTB Library. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by KubeJS, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by KubeJS. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Modern Industrialization. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Modern Industrialization. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Modern Industrialization. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Modern Industrialization. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Modern Industrialization. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Modern Dynamics, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Modern Dynamics. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by oωo, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by oωo. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Spectrum, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/INFO]: [REI] Registered plugin provider REIServerIntegration [spectrum] for REIPlugin
+[03:09:34] [main/WARN]: The entrypoint used by Spectrum, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Spectrum. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by TrashSlot, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by TrashSlot. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Botania, "rei_plugins_v0" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Botania. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Extra Generators, "rei_plugins_v0" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Extra Generators. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[03:09:34] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[03:09:34] [main/WARN]: The entrypoint used by Adorn, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Adorn. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Adorn, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/INFO]: [REI] Registered plugin provider AdornReiServer [adorn] for REIServerPlugin
+[03:09:34] [main/WARN]: The entrypoint used by AppleSkin, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by AppleSkin. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Create, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Create. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Decorative Blocks, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/INFO]: [REI] Registered plugin provider DBServerPlugin [decorative_blocks] for REIServerPlugin
+[03:09:34] [main/WARN]: The entrypoint used by Decorative Blocks, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Decorative Blocks. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Ellemes' Container Library, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Ellemes' Container Library. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by FTB Quests, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by FTB Quests. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Improved Stations, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/INFO]: [REI] Registered plugin provider ImprovedStationsREIContainerInfo [improved-stations] for REIServerPlugin
+[03:09:34] [main/WARN]: The entrypoint used by Improved Stations, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Improved Stations. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Industrial Revolution, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Industrial Revolution. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Roughly Enough Professions, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Roughly Enough Professions. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Roughly Enough Resources, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Roughly Enough Resources. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Tech Reborn, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Tech Reborn. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by The Twilight Forest, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by The Twilight Forest. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by wthit, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by wthit. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Applied Energistics 2, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Applied Energistics 2. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by AE2Things, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by AE2Things. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by AE2WTLib, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by AE2WTLib. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Artifacts, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Artifacts. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Basic AIOTs, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Basic AIOTs. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Bewitchment, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Bewitchment. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by BitsAndChisels, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by BitsAndChisels. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Catwalks Inc., "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Catwalks Inc.. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Chisel Refabricated, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Chisel Refabricated. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Conjuring, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Conjuring. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Conjuring, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/INFO]: [REI] Registered plugin provider ConjuringCommonPlugin [conjuring] for REIServerPlugin
+[03:09:34] [main/WARN]: The entrypoint used by Coxinha Utilities, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Coxinha Utilities. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Crafting Tweaks, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Crafting Tweaks. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by DML: Refabricated - REI Integration, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by DML: Refabricated - REI Integration. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by FabricaeExNihilo, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by FabricaeExNihilo. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by Farmer's Delight, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by Farmer's Delight. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by FTB Library, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: Rerached side issue when loading REI plugin by FTB Library. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:34] [main/WARN]: The entrypoint used by KubeJS, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: Rerached side issue when loading REI plugin by KubeJS. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: Rerached side issue when loading REI plugin by Modern Industrialization. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: Rerached side issue when loading REI plugin by Modern Industrialization. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: Rerached side issue when loading REI plugin by Modern Industrialization. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: Rerached side issue when loading REI plugin by Modern Industrialization. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: Rerached side issue when loading REI plugin by Modern Industrialization. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: The entrypoint used by Modern Dynamics, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: Rerached side issue when loading REI plugin by Modern Dynamics. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: The entrypoint used by oωo, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: Rerached side issue when loading REI plugin by oωo. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: The entrypoint used by Spectrum, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/INFO]: [REI] Registered plugin provider REIServerIntegration [spectrum] for REIServerPlugin
+[03:09:35] [main/WARN]: The entrypoint used by Spectrum, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: Rerached side issue when loading REI plugin by Spectrum. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: The entrypoint used by TrashSlot, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: Rerached side issue when loading REI plugin by TrashSlot. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: The entrypoint used by Botania, "rei_plugins_v0" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: Rerached side issue when loading REI plugin by Botania. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: The entrypoint used by Extra Generators, "rei_plugins_v0" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/WARN]: Rerached side issue when loading REI plugin by Extra Generators. Please use "rei_server", "rei_client" or "rei_common" instead.
+[03:09:35] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[03:09:35] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[03:09:35] [main/INFO]: [RER] RoughlyEnoughPacketSize?  Possibly.
+[03:09:35] [main/INFO]: [Spectrum] Starting Common Startup
+[03:09:35] [main/INFO]: [Spectrum] Loading config file...
+[03:09:35] [main/INFO]: [Spectrum] Finished loading config file.
+[03:09:35] [main/INFO]: [Spectrum] Registering Banner Patterns...
+[03:09:35] [main/INFO]: [Spectrum] Registering Block / Item Color Registries...
+[03:09:35] [main/INFO]: [Spectrum] Registering Advancement Criteria...
+[03:09:35] [main/INFO]: [Spectrum] Registering Particle Types...
+[03:09:35] [main/INFO]: [Spectrum] Registering Sound Events...
+[03:09:35] [main/INFO]: [Spectrum] Registering Sound Events...
+[03:09:35] [main/INFO]: [Spectrum] Registering Music...
+[03:09:35] [main/INFO]: [Spectrum] Registering BlockSound Groups...
+[03:09:35] [main/INFO]: [Spectrum] Registering Fluid Tags...
+[03:09:35] [main/INFO]: [Spectrum] Fetching Block Tags...
+[03:09:35] [main/INFO]: [Spectrum] Registering Fluids...
+[03:09:35] [main/INFO]: [Spectrum] Registering Blocks...
+[03:09:35] [main/INFO]: [Spectrum] Registering Items...
+[03:09:35] [main/INFO]: [Spectrum] Fetching Item Tags...
+[03:09:35] [main/INFO]: [Spectrum] Registering Block Entities...
+[03:09:35] [main/INFO]: [Spectrum] Registering Structure Features...
+[03:09:35] [main/INFO]: [Spectrum] Registering Worldgen Features...
+[03:09:35] [main/INFO]: [Spectrum] Registering Configured and Placed Features...
+[03:09:35] [main/INFO]: [Spectrum] Registering Dimension...
+[03:09:35] [main/INFO]: [Spectrum] Registering Recipe Types...
+[03:09:35] [main/INFO]: [Spectrum] Registering Loot Conditions...
+[03:09:35] [main/INFO]: [Spectrum] Registering Containers...
+[03:09:35] [main/INFO]: [Spectrum] Registering Screen Handler Types...
+[03:09:35] [main/INFO]: [Spectrum] Registering Status Effects...
+[03:09:35] [main/INFO]: [Spectrum] Registering Default Item Stack Damage Immunities...
+[03:09:35] [main/INFO]: [Spectrum] Registering Enchantment Drops...
+[03:09:35] [main/INFO]: [Spectrum] Registering Items to Fuel Registry...
+[03:09:35] [main/INFO]: [Spectrum] Registering Enchantments...
+[03:09:35] [main/INFO]: [Spectrum] Registering Entity Types...
+[03:09:35] [main/INFO]: [Spectrum] Registering Commands...
+[03:09:35] [main/INFO]: [Spectrum] Registering Client To ServerPackage Receivers...
+[03:09:35] [main/INFO]: [Spectrum] Registering Block Cloaker...
+[03:09:35] [main/INFO]: [Spectrum] Registering MultiBlocks...
+[03:09:35] [main/INFO]: [Spectrum] Registering Flammable Blocks...
+[03:09:35] [main/INFO]: [Spectrum] Registering Compostable Blocks...
+[03:09:35] [main/INFO]: [Spectrum] Registering Game Events...
+[03:09:35] [main/INFO]: [Spectrum] Registering Potion Workshop Reagents...
+[03:09:35] [main/INFO]: [Spectrum] Initializing Item Groups...
+[03:09:35] [main/INFO]: [Spectrum] Registering Special Recipes...
+[03:09:35] [main/INFO]: [Spectrum] Registering Dispenser Behaviors..
+[03:09:35] [main/INFO]: [Spectrum] Registering RecipeCache reload listener
+[03:09:35] [main/INFO]: [Spectrum] Common startup completed!
+[03:09:36] [main/INFO]: TechReborn setup done!
+[03:09:36] [main/INFO]: "./config/byg/overworld/byg-overworld-biomes.json5" was read.
+[03:09:36] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[03:09:36] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[03:09:36] [main/INFO]: Registered region byg:region_0 to index 1 for type OVERWORLD
+[03:09:36] [main/INFO]: Registered region byg:region_1 to index 2 for type OVERWORLD
+[03:09:36] [main/INFO]: Registered region byg:region_2 to index 3 for type OVERWORLD
+[03:09:36] [main/INFO]: Registered region byg:region_3 to index 4 for type OVERWORLD
+[03:09:36] [main/INFO]: Registered region graveyard_biomes:biome_provider to index 5 for type OVERWORLD
+[03:09:36] [main/INFO]: Registered region magicalforest:overworld to index 6 for type OVERWORLD
+[03:09:36] [main/INFO]: Registered region promenade:overworld_region to index 7 for type OVERWORLD
+[03:09:36] [main/INFO]: Registered region promenade:nether_region to index 1 for type NETHER
+[03:09:36] [main/INFO]: Trying to read config file...
+[03:09:36] [main/INFO]: A config file was found, loading it..
+[03:09:36] [main/INFO]: Successfully loaded config file.
+[03:09:36] [main/INFO]: [STDOUT]: thonkutil-capes-v1 Init
+[03:09:36] [main/INFO]: Skipped compatibility for mod tconstruct.
+[03:09:36] [main/INFO]: Loaded compatibility for mod Trinkets.
+[03:09:36] [main/INFO]: Hello from UFU! Remember to make backups!
+[03:09:36] [main/INFO]: Finished reading ufu.txt, found 28 valid pairs
+[03:09:36] [main/INFO]: Loaded 14 Static Content files for vanilla-hammers:hammers
+[03:09:36] [main/INFO]: Is initializing.
+[03:09:37] [main/INFO]: Has successfully been initialized.
+[03:09:37] [main/INFO]: If you have any issues or questions, feel free to join our Discord: https://discord.gg/vMjzgS4.
+[03:09:37] [main/INFO]: Loaded 5 Static Content files for wolveswitharmor:wolf_armor
+[03:09:37] [main/INFO]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.plugin.core.WailaCore
+[03:09:37] [main/INFO]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaVanilla
+[03:09:37] [main/INFO]: [WTHIT] Registering plugin secretrooms:secretrooms at com.github.spaceman.WailaPlugin
+[03:09:37] [main/INFO]: [WTHIT] Registering plugin megane:plugin at lol.bai.megane.runtime.Megane
+[03:09:37] [main/INFO]: [megane] Loading wraith.fabricaeexnihilo.compatibility.megane.FENMeganeModule from fabricaeexnihilo
+[03:09:37] [main/INFO]: [megane] Loading lol.bai.megane.module.ae2.MeganeAppliedEnergistics2 from megane-applied-energistics-2
+[03:09:37] [main/INFO]: [megane] Loading lol.bai.megane.module.create.MeganeCreate from megane-create
+[03:09:37] [main/INFO]: [megane] Loading lol.bai.megane.module.dmlsimulacrum.MeganeDmlSimulacrum from megane-deep-mob-learning-simulacrum
+[03:09:37] [main/INFO]: [megane] Loading lol.bai.megane.module.extragenerators.MeganeExtraGenerators from megane-extra-generators
+[03:09:37] [main/INFO]: [megane] Loading lol.bai.megane.module.fabrictransfer.MeganeFabricTransfer from megane-fabric-transfer
+[03:09:37] [main/INFO]: [megane] Loading lol.bai.megane.module.indrev.MeganeIndustrialRevolution from megane-industrial-revolution
+[03:09:37] [main/INFO]: [megane] Loading lol.bai.megane.module.kibe.MeganeKibe from megane-kibe
+[03:09:37] [main/INFO]: [megane] Loading lol.bai.megane.module.lba.MeganeLibBlockAttributes from megane-lib-block-attributes
+[03:09:37] [main/INFO]: [megane] Loading lol.bai.megane.module.reborncore.MeganeRebornCore from megane-reborn-core
+[03:09:37] [main/INFO]: [megane] Loading lol.bai.megane.module.rebornenergy.MeganeRebornEnergy from megane-reborn-energy
+[03:09:37] [main/INFO]: [megane] Loading lol.bai.megane.module.techreborn.MeganeTechReborn from megane-tech-reborn
+[03:09:37] [main/INFO]: [megane] Loading lol.bai.megane.module.vanilla.MeganeVanilla from megane-vanilla
+[03:09:37] [main/INFO]: [megane] Loading lol.bai.megane.module.wirelessnetworks.MeganeWirelessNetworks from megane-wireless-networks
+[03:09:37] [main/INFO]: [megane] Loading aztech.modern_industrialization.compat.megane.MIMeganeModule from modern_industrialization
+[03:09:37] [main/INFO]: [WTHIT] Registering plugin ae2:waila at appeng.integration.modules.waila.WailaModule
+[03:09:37] [main/INFO]: [WTHIT] Registering plugin fabricaeexnihilo:wthit_plugin at wraith.fabricaeexnihilo.compatibility.wthit.WthitPlugin
+[03:09:37] [main/INFO]: [WTHIT] Registering plugin minecraft:horseinfo at net.pancham138.horseinfo.HorseInfo
+[03:09:37] [main/INFO]: [Hwyla Addon Horse Info] Registering 
+[03:09:37] [main/INFO]: [WTHIT] Registering plugin modern_industrialization:plugin at aztech.modern_industrialization.compat.waila.MIWailaPlugin
+[03:09:37] [main/INFO]: [WTHIT] Plugin config reloaded
+[03:09:38] [main/INFO]: SlimyFloor 1.18-1.2.2 loaded
+[03:09:38] [main/INFO]: Loading [Harvest Scythes]
+[03:09:38] [main/INFO]: [Tech Reborn] detected. Loading supported items.
+[03:09:38] [main/INFO]: [DragonLoot] detected. Loading supported items.
+[03:09:38] [main/INFO]: [Harvest Scythes] has successfully been loaded!
+[03:09:38] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:09:38] [main/INFO]: Preparing Data Pack injection.
+[03:09:38] [main/INFO]: Successfully injected 0/0 packs from /home/mc/AoF5/server/./config/openloader/data.
+[03:09:38] [main/INFO]: ARRP register - before vanilla
+[03:09:38] [main/INFO]: ARRP register - after vanilla
+[03:09:38] [main/INFO]: Loaded script server_scripts:replace_outputs.js in 0.003 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:recipetypes/indrev/compressing.js in 0.003 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:recipetypes/indrev/recycle.js in 0.001 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:recipetypes/indrev/pulverizer.js in 0.002 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:recipetypes/indrev/shaped.js in 0.002 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:recipetypes/indrev/shapeless.js in 0.001 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:recipetypes/dwarfcoal/shapeless.js in 0.0 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:recipetypes/bewitchment/shaped.js in 0.0 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:recipetypes/byg/shaped.js in 0.001 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:recipetypes/techreborn/vacuum_freezer.js in 0.001 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:recipetypes/techreborn/blast_furnace.js in 0.001 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:recipetypes/techreborn/shaped.js in 0.002 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:recipetypes/botania/runic_altar.js in 0.001 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:recipetypes/modern_industrialization/macerator.js in 0.001 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:recipetypes/modern_industrialization/assembler.js in 0.001 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:recipetypes/modern_industrialization/shaped.js in 0.001 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:recipetypes/modern_industrialization/electrolyzer.js in 0.0 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:recipetypes/minecraft/shaped.js in 0.001 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:recipetypes/blockus/shaped.js in 0.001 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:recipetypes/blockus/shapeless.js in 0.0 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:recipetypes/chisel/shaped.js in 0.0 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:recipetypes/kibe/shaped.js in 0.0 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:recipetypes/blast/shaped.js in 0.001 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:first_join.js in 0.003 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:unification/materials.js in 0.011 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:unification/farming.js in 0.001 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:removals.js in 0.002 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:tags/general_tags.js in 0.001 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:tags/replicator_blacklist.js in 0.001 s
+[03:09:38] [main/INFO]: Loaded script server_scripts:replace_inputs.js in 0.001 s
+[03:09:38] [main/INFO]: Loaded 30/30 KubeJS server scripts in 0.062 s
+[03:09:38] [main/INFO]: Scripts loaded
+[03:09:38] [main/INFO]: Registered custom recipe handler for type kubejs:shaped
+[03:09:38] [main/INFO]: Registered custom recipe handler for type kubejs:shapeless
+[03:09:38] [main/INFO]: Registered custom recipe handler for type minecraft:crafting_shaped
+[03:09:38] [main/INFO]: Registered custom recipe handler for type minecraft:crafting_shapeless
+[03:09:38] [main/INFO]: Registered custom recipe handler for type minecraft:stonecutting
+[03:09:38] [main/INFO]: Registered custom recipe handler for type minecraft:smelting
+[03:09:38] [main/INFO]: Registered custom recipe handler for type minecraft:blasting
+[03:09:38] [main/INFO]: Registered custom recipe handler for type minecraft:smoking
+[03:09:38] [main/INFO]: Registered custom recipe handler for type minecraft:campfire_cooking
+[03:09:38] [main/INFO]: Registered custom recipe handler for type minecraft:smithing
+[03:09:38] [main/INFO]: Registered custom recipe handler for type dankstorage:upgrade
+[03:09:38] [main/INFO]: Registered custom recipe handler for type botania:runic_altar
+[03:09:38] [main/INFO]: Registered custom recipe handler for type techreborn:alloy_smelter
+[03:09:38] [main/INFO]: Registered custom recipe handler for type techreborn:assembling_machine
+[03:09:38] [main/INFO]: Registered custom recipe handler for type techreborn:centrifuge
+[03:09:38] [main/INFO]: Registered custom recipe handler for type techreborn:chemical_reactor
+[03:09:38] [main/INFO]: Registered custom recipe handler for type techreborn:compressor
+[03:09:38] [main/INFO]: Registered custom recipe handler for type techreborn:distillation_tower
+[03:09:38] [main/INFO]: Registered custom recipe handler for type techreborn:extractor
+[03:09:38] [main/INFO]: Registered custom recipe handler for type techreborn:grinder
+[03:09:38] [main/INFO]: Registered custom recipe handler for type techreborn:implosion_compressor
+[03:09:38] [main/INFO]: Registered custom recipe handler for type techreborn:industrial_electrolyzer
+[03:09:38] [main/INFO]: Registered custom recipe handler for type techreborn:recycler
+[03:09:38] [main/INFO]: Registered custom recipe handler for type techreborn:scrapbox
+[03:09:38] [main/INFO]: Registered custom recipe handler for type techreborn:vacuum_freezer
+[03:09:38] [main/INFO]: Registered custom recipe handler for type techreborn:solid_canning_machine
+[03:09:38] [main/INFO]: Registered custom recipe handler for type techreborn:wire_mill
+[03:09:38] [main/INFO]: Registered custom recipe handler for type techreborn:blast_furnace
+[03:09:38] [main/INFO]: Registered custom recipe handler for type techreborn:industrial_grinder
+[03:09:38] [main/INFO]: Registered custom recipe handler for type techreborn:industrial_grinder
+[03:09:38] [main/INFO]: Registered custom recipe handler for type techreborn:fluid_replicator
+[03:09:38] [main/INFO]: Registered custom recipe handler for type create:sequenced_assembly
+[03:09:38] [main/INFO]: Registered custom recipe handler for type create:mechanical_crafting
+[03:09:38] [main/INFO]: Registered custom recipe handler for type create:conversion
+[03:09:38] [main/INFO]: Registered custom recipe handler for type create:crushing
+[03:09:38] [main/INFO]: Registered custom recipe handler for type create:cutting
+[03:09:38] [main/INFO]: Registered custom recipe handler for type create:milling
+[03:09:38] [main/INFO]: Registered custom recipe handler for type create:basin
+[03:09:38] [main/INFO]: Registered custom recipe handler for type create:mixing
+[03:09:38] [main/INFO]: Registered custom recipe handler for type create:compacting
+[03:09:38] [main/INFO]: Registered custom recipe handler for type create:pressing
+[03:09:38] [main/INFO]: Registered custom recipe handler for type create:sandpaper_polishing
+[03:09:38] [main/INFO]: Registered custom recipe handler for type create:splashing
+[03:09:38] [main/INFO]: Registered custom recipe handler for type create:haunting
+[03:09:38] [main/INFO]: Registered custom recipe handler for type create:deploying
+[03:09:38] [main/INFO]: Registered custom recipe handler for type create:filling
+[03:09:38] [main/INFO]: Registered custom recipe handler for type create:emptying
+[03:09:38] [main/INFO]: Registered custom recipe handler for type fabricaeexnihilo:sieve
+[03:09:38] [main/INFO]: Registered custom recipe handler for type fabricaeexnihilo:crook
+[03:09:38] [main/INFO]: Registered custom recipe handler for type fabricaeexnihilo:hammer
+[03:09:38] [main/INFO]: Registered custom recipe handler for type fabricaeexnihilo:crucible
+[03:09:38] [main/INFO]: Registered custom recipe handler for type fabricaeexnihilo:crucible_heat
+[03:09:38] [main/INFO]: Registered custom recipe handler for type fabricaeexnihilo:alchemy
+[03:09:38] [main/INFO]: Registered custom recipe handler for type fabricaeexnihilo:compost
+[03:09:38] [main/INFO]: Registered custom recipe handler for type fabricaeexnihilo:fluid_combination
+[03:09:38] [main/INFO]: Registered custom recipe handler for type fabricaeexnihilo:fluid_transformation
+[03:09:38] [main/INFO]: Registered custom recipe handler for type fabricaeexnihilo:leaking
+[03:09:38] [main/INFO]: Registered custom recipe handler for type fabricaeexnihilo:milking
+[03:09:38] [main/INFO]: Registered custom recipe handler for type fabricaeexnihilo:witch_water_entity
+[03:09:38] [main/INFO]: Registered custom recipe handler for type fabricaeexnihilo:witch_water_world
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:assembler
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:centrifuge
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:chemical_reactor
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:compressor
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:cutting_machine
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:distillery
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:electrolyzer
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:furnace
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:forge_hammer
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:macerator
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:mixer
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:packer
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:polarizer
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:unpacker
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:wiremill
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:blast_furnace
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:coke_oven
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:distillation_tower
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:fusion_reactor
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:heat_exchanger
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:implosion_compressor
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:oil_drilling_rig
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:pressurizer
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:quarry
+[03:09:38] [main/INFO]: Registered custom recipe handler for type modern_industrialization:vacuum_freezer
+[03:09:38] [main/INFO]: Scanning recipes...
+[03:09:40] [main/WARN]: Adding dml-refabricated:depth_strider to saved/remote registry.
+[03:09:40] [main/WARN]: Adding dml-refabricated:underwater_haste to saved/remote registry.
+[03:09:40] [main/WARN]: Adding incubus_core:zonked to saved/remote registry.
+[03:09:40] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[03:09:40] [main/INFO]: "./config/byg/end-biomes.json5" was read.
+[03:09:40] [main/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_0
+[03:09:40] [main/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_1
+[03:09:40] [main/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_2
+[03:09:40] [main/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_3
+[03:09:40] [main/INFO]: "./config/byg/nether-biomes.json5" was read.
+[03:09:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:09:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:09:41] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:09:41] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:09:41] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:09:41] [main/WARN]: Ambiguity between arguments [spells, add, all] and [spells, add, player] with inputs: [word]
+[03:09:41] [main/WARN]: Ambiguity between arguments [spells, add, player] and [spells, add, all] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:09:41] [main/WARN]: Ambiguity between arguments [spells, remove, all] and [spells, remove, player] with inputs: [word]
+[03:09:41] [main/WARN]: Ambiguity between arguments [spells, remove, player] and [spells, remove, all] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:09:41] [main/WARN]: Ambiguity between arguments [ftbchunks, admin, view_loaded_chunks, reset] and [ftbchunks, admin, view_loaded_chunks, dimension] with inputs: [reset]
+[03:09:41] [main/WARN]: Ambiguity between arguments [ftbteams, info, server_id] and [ftbteams, info, team] with inputs: [server_id]
+[03:09:41] [main/WARN]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:09:41] [main/WARN]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:09:41] [main/WARN]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:09:41] [main/WARN]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:09:41] [main/WARN]: Ambiguity between arguments [scale, get, scale_type] and [scale, get, entity] with inputs: [base]
+[03:09:41] [main/WARN]: Ambiguity between arguments [scale, get, scale_type, entity] and [scale, get, scale_type, scalingFactor] with inputs: [0123]
+[03:09:41] [main/WARN]: Ambiguity between arguments [scale, get, scale_type, scalingFactor] and [scale, get, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[03:09:41] [main/WARN]: Ambiguity between arguments [scale, get, scalingFactor] and [scale, get, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[03:09:41] [main/WARN]: Ambiguity between arguments [scale, get, entity] and [scale, get, scalingFactor] with inputs: [0123]
+[03:09:41] [main/WARN]: Ambiguity between arguments [scale, compute, scale_type, entity] and [scale, compute, scale_type, scalingFactor] with inputs: [0123]
+[03:09:41] [main/WARN]: Ambiguity between arguments [scale, compute, scale_type, scalingFactor] and [scale, compute, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[03:09:41] [main/WARN]: Ambiguity between arguments [scale, reset, scale_type] and [scale, reset, targets] with inputs: [base]
+[03:09:41] [main/WARN]: Ambiguity between arguments [scale, delay, get, scale_type] and [scale, delay, get, entity] with inputs: [base]
+[03:09:41] [main/WARN]: Ambiguity between arguments [scale, delay, reset, scale_type] and [scale, delay, reset, targets] with inputs: [base]
+[03:09:41] [main/WARN]: Ambiguity between arguments [scale, persist, reset, scale_type] and [scale, persist, reset, targets] with inputs: [base]
+[03:09:41] [Worker-Main-8/INFO]: [REI] Processed 2 tags in 1.085 ms for minecraft:game_event
+[03:09:41] [Worker-Main-4/INFO]: [REI] Processed 25 tags in 101.2 μs for minecraft:fluid
+[03:09:41] [Worker-Main-3/INFO]: [REI] Processed 0 tags in 15.12 μs for minecraft:worldgen/configured_structure_feature
+[03:09:41] [Worker-Main-6/INFO]: [REI] Processed 3 tags in 31.13 μs for minecraft:mob_effect
+[03:09:41] [Worker-Main-2/INFO]: [REI] Processed 8 tags in 70.50 μs for minecraft:enchantment
+[03:09:41] [Worker-Main-8/INFO]: [REI] Processed 55 tags in 357.0 μs for minecraft:entity_type
+[03:09:41] [Worker-Main-5/INFO]: [REI] Processed 0 tags in 118.8 μs for minecraft:worldgen/biome
+[03:09:41] [Worker-Main-7/INFO]: [blocks] Found 893 tags, added 7 objects, removed 0 objects
+[03:09:42] [Worker-Main-7/INFO]: [blocks] Found 893 tags, added 7 objects, removed 0 objects
+[03:09:42] [Worker-Main-7/INFO]: [REI] Processed 893 tags in 15.01 ms for minecraft:block
+[03:09:42] [Worker-Main-8/INFO]: [STDOUT]: goblintraders:trades/goblin_trader/common.json
+[03:09:42] [Worker-Main-8/INFO]: [STDOUT]: goblintraders:trades/goblin_trader/epic.json
+[03:09:42] [Worker-Main-8/INFO]: [STDOUT]: goblintraders:trades/goblin_trader/legendary.json
+[03:09:42] [Worker-Main-8/INFO]: [STDOUT]: goblintraders:trades/goblin_trader/rare.json
+[03:09:42] [Worker-Main-8/INFO]: [STDOUT]: goblintraders:trades/goblin_trader/uncommon.json
+[03:09:42] [Worker-Main-8/INFO]: [STDOUT]: goblintraders:trades/vein_goblin_trader/common.json
+[03:09:42] [Worker-Main-8/INFO]: [STDOUT]: goblintraders:trades/vein_goblin_trader/epic.json
+[03:09:42] [Worker-Main-8/INFO]: [STDOUT]: goblintraders:trades/vein_goblin_trader/legendary.json
+[03:09:42] [Worker-Main-8/INFO]: [STDOUT]: goblintraders:trades/vein_goblin_trader/rare.json
+[03:09:42] [Worker-Main-8/INFO]: [STDOUT]: goblintraders:trades/vein_goblin_trader/uncommon.json
+[03:09:42] [Worker-Main-4/INFO]: [items] Found 2342 tags, added 165 objects, removed 179 objects
+[03:09:42] [Worker-Main-4/INFO]: [items] Found 2342 tags, added 165 objects, removed 179 objects
+[03:09:42] [Worker-Main-4/INFO]: [REI] Processed 2342 tags in 15.59 ms for minecraft:item
+[03:09:44] [Worker-Main-3/WARN]: Failed to parse recipe 'createplus:architects_palette/mixing/sunstone[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:sunmetal_blend'
+[03:09:44] [Worker-Main-3/WARN]: Failed to parse recipe createplus:architects_palette/mixing/sunstone[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:sunmetal_blend'
+[03:09:44] [Worker-Main-3/ERROR]: IngredientDeserializer with ID not found: [farmersdelight:tool] this can be ignored unless issues occur.
+[03:09:44] [Worker-Main-3/INFO]: [STDOUT]: empty indrev:salt
+[03:09:44] [Worker-Main-3/WARN]: Failed to parse recipe 'createplus:biomemakeover/cutting/ancient_log/stripped_wood[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomemakeover:stripped_ancient_log_wood'
+[03:09:44] [Worker-Main-3/WARN]: Failed to parse recipe createplus:biomemakeover/cutting/ancient_log/stripped_wood[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'biomemakeover:stripped_ancient_log_wood'
+[03:09:44] [Worker-Main-3/WARN]: Failed to parse recipe 'spectrum:enchantment_upgrade/spectrum/disarming[spectrum:enchantment_upgrade]'! Falling back to vanilla: com.google.gson.JsonParseException: Enchantment Upgrade Recipe spectrum:enchantment_upgrade/spectrum/disarming has an enchantment set that does not exist or is disabled: spectrum:disarming
+[03:09:44] [Worker-Main-3/WARN]: Failed to parse recipe spectrum:enchantment_upgrade/spectrum/disarming[spectrum:enchantment_upgrade]: com.google.gson.JsonParseException: Enchantment Upgrade Recipe spectrum:enchantment_upgrade/spectrum/disarming has an enchantment set that does not exist or is disabled: spectrum:disarming
+[03:09:44] [Worker-Main-3/WARN]: Failed to parse recipe 'createplus:biomemakeover/mixing/mesmerite[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:illunite_shard'
+[03:09:44] [Worker-Main-3/WARN]: Failed to parse recipe createplus:biomemakeover/mixing/mesmerite[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:illunite_shard'
+[03:09:44] [Worker-Main-3/WARN]: Failed to parse recipe 'createplus:biomemakeover/cutting/ancient_log/wood[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomemakeover:ancient_log_wood'
+[03:09:44] [Worker-Main-3/WARN]: Failed to parse recipe createplus:biomemakeover/cutting/ancient_log/wood[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'biomemakeover:ancient_log_wood'
+[03:09:44] [Worker-Main-3/WARN]: Failed to parse recipe 'createplus:biomemakeover/cutting/ancient_log/log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomemakeover:ancient_log_log'
+[03:09:44] [Worker-Main-3/WARN]: Failed to parse recipe createplus:biomemakeover/cutting/ancient_log/log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'biomemakeover:ancient_log_log'
+[03:09:44] [Worker-Main-3/WARN]: Failed to parse recipe 'createplus:modern_industrialization/mixer/limestone[modern_industrialization:mixer]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing fluid, expected to find a string
+[03:09:44] [Worker-Main-3/WARN]: Failed to parse recipe createplus:modern_industrialization/mixer/limestone[modern_industrialization:mixer]: com.google.gson.JsonSyntaxException: Missing fluid, expected to find a string
+[03:09:44] [Worker-Main-3/WARN]: Failed to parse recipe 'createplus:biomemakeover/cutting/ancient_log/stripped_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomemakeover:stripped_ancient_log_log'
+[03:09:44] [Worker-Main-3/WARN]: Failed to parse recipe createplus:biomemakeover/cutting/ancient_log/stripped_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'biomemakeover:stripped_ancient_log_log'
+[03:09:44] [Worker-Main-3/INFO]: Found 22229 recipes and 0 failed recipes in 619.0 ms
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: java.lang.NoClassDefFoundError: net/minecraft/class_310
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	at zabi.minecraft.extraalchemy.items.PotionRingItem.method_7850(PotionRingItem.java:40)
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.item.ItemStackJS.getList(ItemStackJS.java:505)
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.item.ingredient.IngredientJS.getStacks(IngredientJS.java:273)
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.item.ingredient.IngredientJS.anyStackMatches(IngredientJS.java:365)
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeJS.replaceInput(RecipeJS.java:156)
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeJS.replaceInput(RecipeJS.java:149)
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeEventJS.lambda$replaceInput$14(RecipeEventJS.java:484)
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	at java.base/java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: Caused by: java.lang.ClassNotFoundException: net.minecraft.class_310
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:226)
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:145)
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+[03:09:45] [Worker-Main-6/INFO]: [STDERR]: 	... 17 more
+[03:09:45] [Worker-Main-5/INFO]: [STDERR]: java.lang.NoClassDefFoundError: net/minecraft/class_310
+[03:09:45] [Worker-Main-5/INFO]: [STDERR]: 	at zabi.minecraft.extraalchemy.items.PotionRingItem.method_7850(PotionRingItem.java:40)
+[03:09:45] [Worker-Main-5/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.item.ItemStackJS.getList(ItemStackJS.java:505)
+[03:09:45] [Worker-Main-5/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.item.ingredient.IngredientJS.getStacks(IngredientJS.java:273)
+[03:09:45] [Worker-Main-5/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.item.ingredient.IngredientJS.anyStackMatches(IngredientJS.java:365)
+[03:09:45] [Worker-Main-5/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeJS.replaceInput(RecipeJS.java:156)
+[03:09:45] [Worker-Main-5/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeJS.replaceInput(RecipeJS.java:149)
+[03:09:45] [Worker-Main-5/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeEventJS.lambda$replaceInput$14(RecipeEventJS.java:484)
+[03:09:45] [Worker-Main-5/INFO]: [STDERR]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+[03:09:45] [Worker-Main-5/INFO]: [STDERR]: 	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+[03:09:45] [Worker-Main-5/INFO]: [STDERR]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[03:09:45] [Worker-Main-5/INFO]: [STDERR]: 	at java.base/java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[03:09:45] [Worker-Main-5/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[03:09:45] [Worker-Main-5/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[03:09:45] [Worker-Main-5/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[03:09:45] [Worker-Main-5/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[03:09:45] [Worker-Main-5/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[03:09:45] [Worker-Main-5/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[03:09:45] [Worker-Main-5/INFO]: [STDERR]: Caused by: java.lang.ClassNotFoundException: net.minecraft.class_310
+[03:09:45] [Worker-Main-5/INFO]: [STDERR]: 	... 17 more
+[03:09:45] [Worker-Main-4/INFO]: [STDERR]: java.lang.NoClassDefFoundError: net/minecraft/class_310
+[03:09:45] [Worker-Main-4/INFO]: [STDERR]: 	at zabi.minecraft.extraalchemy.items.PotionRingItem.method_7850(PotionRingItem.java:40)
+[03:09:45] [Worker-Main-4/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.item.ItemStackJS.getList(ItemStackJS.java:505)
+[03:09:45] [Worker-Main-4/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.item.ingredient.IngredientJS.getStacks(IngredientJS.java:273)
+[03:09:45] [Worker-Main-4/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.item.ingredient.IngredientJS.anyStackMatches(IngredientJS.java:365)
+[03:09:45] [Worker-Main-4/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeJS.replaceInput(RecipeJS.java:156)
+[03:09:45] [Worker-Main-4/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeJS.replaceInput(RecipeJS.java:149)
+[03:09:45] [Worker-Main-4/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeEventJS.lambda$replaceInput$14(RecipeEventJS.java:484)
+[03:09:45] [Worker-Main-4/INFO]: [STDERR]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+[03:09:45] [Worker-Main-4/INFO]: [STDERR]: 	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+[03:09:45] [Worker-Main-4/INFO]: [STDERR]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[03:09:45] [Worker-Main-4/INFO]: [STDERR]: 	at java.base/java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[03:09:45] [Worker-Main-4/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[03:09:45] [Worker-Main-4/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[03:09:45] [Worker-Main-4/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[03:09:45] [Worker-Main-4/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[03:09:45] [Worker-Main-4/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[03:09:45] [Worker-Main-4/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[03:09:45] [Worker-Main-4/INFO]: [STDERR]: Caused by: java.lang.ClassNotFoundException: net.minecraft.class_310
+[03:09:45] [Worker-Main-4/INFO]: [STDERR]: 	... 17 more
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: java.lang.NoClassDefFoundError: net/minecraft/class_310
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at zabi.minecraft.extraalchemy.items.PotionRingItem.method_7850(PotionRingItem.java:40)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.item.ItemStackJS.getList(ItemStackJS.java:505)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.item.ingredient.IngredientJS.getStacks(IngredientJS.java:273)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.item.ingredient.IngredientJS.anyStackMatches(IngredientJS.java:365)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeJS.replaceInput(RecipeJS.java:156)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeJS.replaceInput(RecipeJS.java:149)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeEventJS.lambda$replaceInput$14(RecipeEventJS.java:484)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.helpComplete(ForkJoinPool.java:1223)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.helpComplete(ForkJoinPool.java:1915)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinTask.awaitDone(ForkJoinTask.java:433)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinTask.invoke(ForkJoinTask.java:687)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateParallel(ForEachOps.java:159)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateParallel(ForEachOps.java:173)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:233)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:765)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeEventJS.forEachRecipeAsync(RecipeEventJS.java:444)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeEventJS.replaceInput(RecipeEventJS.java:482)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeEventJS.replaceInput(RecipeEventJS.java:501)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.rhino.MemberBox.invoke(MemberBox.java:123)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.rhino.NativeJavaMethod.call(NativeJavaMethod.java:206)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.rhino.Interpreter.interpretLoop(Interpreter.java:1310)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.rhino.Interpreter.interpret(Interpreter.java:647)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.rhino.InterpretedFunction.call(InterpretedFunction.java:78)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.rhino.ContextFactory.doTopCall(ContextFactory.java:221)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.rhino.ScriptRuntime.doTopCall(ScriptRuntime.java:2696)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.rhino.InterpretedFunction.call(InterpretedFunction.java:76)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.rhino.ArrowFunction.call(ArrowFunction.java:44)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.rhino.InterfaceAdapter.invokeImpl(InterfaceAdapter.java:131)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.rhino.InterfaceAdapter.lambda$invoke$0(InterfaceAdapter.java:90)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.rhino.Context.call(Context.java:368)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.rhino.ContextFactory.call(ContextFactory.java:328)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.rhino.InterfaceAdapter.invoke(InterfaceAdapter.java:90)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.rhino.VMBridge.lambda$newInterfaceProxy$0(VMBridge.java:100)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at jdk.proxy2/jdk.proxy2.$Proxy70.onEvent(Unknown Source)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.event.EventsJS.postToHandlers(EventsJS.java:58)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.event.EventJS.post(EventJS.java:32)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeEventJS.post(RecipeEventJS.java:289)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at net.minecraft.class_1863.handler$dja000$customRecipesHead(class_1863.java:6028)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at net.minecraft.class_1863.method_20705(class_1863.java)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at net.minecraft.class_1863.method_18788(class_1863.java:33)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at net.minecraft.class_4080.method_18790(class_4080.java:13)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at net.minecraft.class_4014.method_18365(class_4014.java:69)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at net.minecraft.class_4014.method_18367(class_4014.java:68)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: Caused by: java.lang.ClassNotFoundException: net.minecraft.class_310
+[03:09:45] [Worker-Main-3/INFO]: [STDERR]: 	... 66 more
+[03:09:45] [Worker-Main-8/INFO]: [STDERR]: java.lang.NoClassDefFoundError: net/minecraft/class_310
+[03:09:45] [Worker-Main-8/INFO]: [STDERR]: 	at zabi.minecraft.extraalchemy.items.PotionRingItem.method_7850(PotionRingItem.java:40)
+[03:09:45] [Worker-Main-8/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.item.ItemStackJS.getList(ItemStackJS.java:505)
+[03:09:45] [Worker-Main-8/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.item.ingredient.IngredientJS.getStacks(IngredientJS.java:273)
+[03:09:45] [Worker-Main-8/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.item.ingredient.IngredientJS.anyStackMatches(IngredientJS.java:365)
+[03:09:45] [Worker-Main-8/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeJS.replaceInput(RecipeJS.java:156)
+[03:09:45] [Worker-Main-8/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeJS.replaceInput(RecipeJS.java:149)
+[03:09:45] [Worker-Main-8/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeEventJS.lambda$replaceInput$14(RecipeEventJS.java:484)
+[03:09:45] [Worker-Main-8/INFO]: [STDERR]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+[03:09:45] [Worker-Main-8/INFO]: [STDERR]: 	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+[03:09:45] [Worker-Main-8/INFO]: [STDERR]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[03:09:45] [Worker-Main-8/INFO]: [STDERR]: 	at java.base/java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[03:09:45] [Worker-Main-8/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[03:09:45] [Worker-Main-8/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[03:09:45] [Worker-Main-8/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[03:09:45] [Worker-Main-8/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[03:09:45] [Worker-Main-8/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[03:09:45] [Worker-Main-8/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[03:09:45] [Worker-Main-8/INFO]: [STDERR]: Caused by: java.lang.ClassNotFoundException: net.minecraft.class_310
+[03:09:45] [Worker-Main-8/INFO]: [STDERR]: 	... 17 more
+[03:09:45] [Worker-Main-2/INFO]: [STDERR]: java.lang.NoClassDefFoundError: net/minecraft/class_310
+[03:09:45] [Worker-Main-2/INFO]: [STDERR]: 	at zabi.minecraft.extraalchemy.items.PotionRingItem.method_7850(PotionRingItem.java:40)
+[03:09:45] [Worker-Main-2/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.item.ItemStackJS.getList(ItemStackJS.java:505)
+[03:09:45] [Worker-Main-2/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.item.ingredient.IngredientJS.getStacks(IngredientJS.java:273)
+[03:09:45] [Worker-Main-2/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.item.ingredient.IngredientJS.anyStackMatches(IngredientJS.java:365)
+[03:09:45] [Worker-Main-2/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeJS.replaceInput(RecipeJS.java:156)
+[03:09:45] [Worker-Main-2/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeJS.replaceInput(RecipeJS.java:149)
+[03:09:45] [Worker-Main-2/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeEventJS.lambda$replaceInput$14(RecipeEventJS.java:484)
+[03:09:45] [Worker-Main-2/INFO]: [STDERR]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+[03:09:45] [Worker-Main-2/INFO]: [STDERR]: 	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+[03:09:45] [Worker-Main-2/INFO]: [STDERR]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[03:09:45] [Worker-Main-2/INFO]: [STDERR]: 	at java.base/java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[03:09:45] [Worker-Main-2/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[03:09:45] [Worker-Main-2/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[03:09:45] [Worker-Main-2/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[03:09:45] [Worker-Main-2/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[03:09:45] [Worker-Main-2/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[03:09:45] [Worker-Main-2/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[03:09:45] [Worker-Main-2/INFO]: [STDERR]: Caused by: java.lang.ClassNotFoundException: net.minecraft.class_310
+[03:09:45] [Worker-Main-2/INFO]: [STDERR]: 	... 17 more
+[03:09:45] [Worker-Main-7/INFO]: [STDERR]: java.lang.NoClassDefFoundError: net/minecraft/class_310
+[03:09:45] [Worker-Main-7/INFO]: [STDERR]: 	at zabi.minecraft.extraalchemy.items.PotionRingItem.method_7850(PotionRingItem.java:40)
+[03:09:45] [Worker-Main-7/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.item.ItemStackJS.getList(ItemStackJS.java:505)
+[03:09:45] [Worker-Main-7/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.item.ingredient.IngredientJS.getStacks(IngredientJS.java:273)
+[03:09:45] [Worker-Main-7/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.item.ingredient.IngredientJS.anyStackMatches(IngredientJS.java:365)
+[03:09:45] [Worker-Main-7/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeJS.replaceInput(RecipeJS.java:156)
+[03:09:45] [Worker-Main-7/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeJS.replaceInput(RecipeJS.java:149)
+[03:09:45] [Worker-Main-7/INFO]: [STDERR]: 	at dev.latvian.mods.kubejs.recipe.RecipeEventJS.lambda$replaceInput$14(RecipeEventJS.java:484)
+[03:09:45] [Worker-Main-7/INFO]: [STDERR]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+[03:09:45] [Worker-Main-7/INFO]: [STDERR]: 	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+[03:09:45] [Worker-Main-7/INFO]: [STDERR]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[03:09:45] [Worker-Main-7/INFO]: [STDERR]: 	at java.base/java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[03:09:45] [Worker-Main-7/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[03:09:45] [Worker-Main-7/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[03:09:45] [Worker-Main-7/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[03:09:45] [Worker-Main-7/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[03:09:45] [Worker-Main-7/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[03:09:45] [Worker-Main-7/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[03:09:45] [Worker-Main-7/INFO]: [STDERR]: Caused by: java.lang.ClassNotFoundException: net.minecraft.class_310
+[03:09:45] [Worker-Main-7/INFO]: [STDERR]: 	... 17 more
+[03:09:47] [Worker-Main-3/INFO]: server_scripts:unification/materials.js:286: Generated REI unification script.
+[03:09:47] [Worker-Main-3/INFO]: server_scripts:unification/materials.js:287:   
+//////////////////////////////////////////////////////////////////////////
+// AOF 5 REI Unification Script.                                        //
+//////////////////////////////////////////////////////////////////////////
+const DELETED_ITEMS = ["techreborn:aluminum_storage_block", "techreborn:aluminum_dust", "techreborn:aluminum_ingot", "techreborn:aluminum_nugget", "techreborn:aluminum_plate", "techreborn:bauxite_dust", "indrev:bronze_block", "techreborn:bronze_storage_block", "indrev:bronze_dust", "techreborn:bronze_dust", "indrev:bronze_ingot", "techreborn:bronze_ingot", "indrev:bronze_nugget", "techreborn:bronze_nugget", "indrev:bronze_plate", "techreborn:bronze_plate", "indrev:coal_dust", "techreborn:coal_dust", "dwarfcoal:dwarf_charcoal", "indrev:copper_dust", "create:copper_nugget", "indrev:copper_nugget", "techreborn:copper_nugget", "create:copper_sheet", "indrev:copper_plate", "techreborn:copper_plate", "indrev:diamond_dust", "techreborn:diamond_dust", "techreborn:diamond_plate", "indrev:electrum_block", "techreborn:electrum_storage_block", "indrev:electrum_dust", "techreborn:electrum_dust", "indrev:electrum_ingot", "techreborn:electrum_ingot", "indrev:electrum_nugget", "techreborn:electrum_nugget", "indrev:electrum_plate", "techreborn:electrum_plate", "techreborn:emerald_dust", "techreborn:emerald_plate", "indrev:gold_dust", "create:golden_sheet", "indrev:gold_plate", "techreborn:gold_plate", "techreborn:invar_storage_block", "techreborn:invar_dust", "techreborn:invar_ingot", "techreborn:invar_nugget", "techreborn:invar_plate", "techreborn:iridium_storage_block", "techreborn:iridium_ingot", "techreborn:iridium_nugget", "techreborn:iridium_plate", "techreborn:raw_iridium", "techreborn:raw_iridium_storage_block", "indrev:iron_dust", "create:iron_sheet", "indrev:iron_plate", "techreborn:iron_plate", "techreborn:lapis_plate", "indrev:lead_block", "techreborn:lead_storage_block", "indrev:lead_dust", "indrev:lead_ingot", "techreborn:lead_ingot", "indrev:lead_nugget", "techreborn:lead_nugget", "indrev:lead_plate", "techreborn:lead_plate", "indrev:raw_lead", "techreborn:raw_lead", "techreborn:raw_lead_storage_block", "techreborn:manganese_dust", "techreborn:nickel_storage_block", "techreborn:nickel_dust", "techreborn:nickel_ingot", "techreborn:nickel_nugget", "techreborn:nickel_plate", "techreborn:platinum_storage_block", "techreborn:platinum_dust", "techreborn:platinum_ingot", "techreborn:platinum_nugget", "techreborn:platinum_plate", "techreborn:quartz_dust", "techreborn:ruby_dust", "techreborn:silicon_plate", "bewitchment:silver_block", "indrev:silver_block", "techreborn:silver_storage_block", "indrev:silver_dust", "bewitchment:silver_ingot", "indrev:silver_ingot", "techreborn:silver_ingot", "bewitchment:silver_nugget", "indrev:silver_nugget", "techreborn:silver_nugget", "indrev:silver_plate", "techreborn:silver_plate", "indrev:raw_silver", "techreborn:raw_silver", "bewitchment:raw_silver_block", "techreborn:raw_silver_storage_block", "indrev:steel_block", "techreborn:steel_storage_block", "indrev:steel_dust", "techreborn:steel_dust", "indrev:steel_ingot", "techreborn:steel_ingot", "indrev:steel_nugget", "techreborn:steel_nugget", "indrev:steel_plate", "techreborn:steel_plate", "indrev:sulfur_dust", "techreborn:sulfur_dust", "indrev:tin_block", "techreborn:tin_storage_block", "indrev:tin_dust", "indrev:tin_ingot", "techreborn:tin_ingot", "indrev:tin_nugget", "techreborn:tin_nugget", "indrev:tin_plate", "techreborn:tin_plate", "indrev:raw_tin", "techreborn:raw_tin", "techreborn:raw_tin_storage_block", "techreborn:titanium_storage_block", "techreborn:titanium_dust", "techreborn:titanium_ingot", "techreborn:titanium_nugget", "techreborn:titanium_plate", "indrev:tungsten_block", "techreborn:tungsten_storage_block", "indrev:tungsten_dust", "indrev:tungsten_ingot", "techreborn:tungsten_ingot", "indrev:tungsten_nugget", "techreborn:tungsten_nugget", "indrev:tungsten_plate", "techreborn:tungsten_plate", "indrev:raw_tungsten", "techreborn:raw_tungsten", "techreborn:raw_tungsten_storage_block", "bewitchment:salt_block", "bewitchment:salt", "techreborn:carbon_plate", "techreborn:brass_storage_block", "techreborn:brass_dust", "techreborn:brass_ingot", "techreborn:brass_nugget", "techreborn:brass_plate", "techreborn:zinc_storage_block", "techreborn:zinc_dust", "techreborn:zinc_ingot", "techreborn:zinc_nugget", "techreborn:bauxite_ore", "techreborn:deepslate_bauxite_ore", "techreborn:iridium_ore", "techreborn:deepslate_iridium_ore", "indrev:lead_ore", "indrev:deepslate_lead_ore", "techreborn:lead_ore", "techreborn:deepslate_lead_ore", "bewitchment:silver_ore", "bewitchment:deepslate_silver_ore", "techreborn:silver_ore", "techreborn:deepslate_silver_ore", "indrev:tin_ore", "indrev:deepslate_tin_ore", "techreborn:tin_ore", "techreborn:deepslate_tin_ore", "indrev:tungsten_ore", "indrev:deepslate_tungsten_ore", "techreborn:tungsten_ore", "techreborn:deepslate_tungsten_ore", "bewitchment:salt_ore", "bewitchment:deepslate_salt_ore", "croptopia:salt_ore"];
+onEvent("rei.hide.items", event => {
+    DELETED_ITEMS.forEach(id => event.hide(id));
+});
+    
+[03:09:48] [Worker-Main-3/INFO]: Posted recipe events in 3.702 s
+[03:09:48] [Worker-Main-3/INFO]: [STDOUT]: empty indrev:salt
+[03:09:48] [Worker-Main-3/INFO]: Modified & removed recipes in 290.9 ms
+[03:09:48] [Worker-Main-3/INFO]: Added recipes in 7.208 ms
+[03:09:48] [Worker-Main-3/INFO]: Added 263 recipes, removed 267 recipes, modified 1207 recipes, with 0 failed recipes and 0 fall-backed recipes
+[03:09:48] [Worker-Main-3/INFO]: "./config/byg/settings.json5" was read.
+[03:09:50] [Worker-Main-3/INFO]: Loaded 11944 advancements
+[03:09:50] [Worker-Main-3/INFO]: [additionaladditions] Loaded 0 behaviours
+[03:09:50] [Worker-Main-3/INFO]: Loading item generators resource.
+[03:09:50] [Worker-Main-3/INFO]: Loading blast item generators resource at extragenerators:item_generators/blast.json.
+[03:09:50] [Worker-Main-3/INFO]: Loading demise item generators resource at extragenerators:item_generators/demise.json.
+[03:09:50] [Worker-Main-3/INFO]: Loading dragon item generators resource at extragenerators:item_generators/dragon.json.
+[03:09:50] [Worker-Main-3/INFO]: Loading icy item generators resource at extragenerators:item_generators/icy.json.
+[03:09:50] [Worker-Main-3/INFO]: Loading sludgy item generators resource at extragenerators:item_generators/sludgy.json.
+[03:09:50] [Worker-Main-3/INFO]: Loading teleport item generators resource at extragenerators:item_generators/teleport.json.
+[03:09:50] [Worker-Main-3/INFO]: Loading withered item generators resource at extragenerators:item_generators/withered.json.
+[03:09:50] [Worker-Main-3/INFO]: Finished loading item generators resource (27 entries loaded).
+[03:09:50] [Worker-Main-3/INFO]: Loading fluid generators resource.
+[03:09:50] [Worker-Main-3/INFO]: Loading scalding fluid generators resource at extragenerators:fluid_generators/scalding.json.
+[03:09:50] [Worker-Main-3/INFO]: Finished loading fluid generators resource (1 entries loaded).
+[03:09:50] [Worker-Main-3/INFO]: Loading block temperature resource.
+[03:09:50] [Worker-Main-3/INFO]: Loading default block temperature resource at extragenerators:block_temperature/default.json.
+[03:09:50] [Worker-Main-3/INFO]: Finished loading block temperature resource (16 entries loaded).
+[03:09:50] [Worker-Main-3/INFO]: Loaded 0 conditional recipes
+[03:09:50] [Worker-Main-3/INFO]: [REI] Reloading Plugin Manager [REIPlugin] stage [START], registered 8 plugins: DefaultRuntimePlugin [roughlyenoughitems], AdornReiServer [adorn], DBServerPlugin [decorative_blocks], ImprovedStationsREIContainerInfo [improved-stations], ConjuringCommonPlugin [conjuring], REIServerIntegration [spectrum], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[03:09:50] [Worker-Main-3/INFO]: [REI] Reloading Plugin Manager [REIServerPlugin] stage [START], registered 8 plugins: DefaultRuntimePlugin [roughlyenoughitems], AdornReiServer [adorn], DBServerPlugin [decorative_blocks], ImprovedStationsREIContainerInfo [improved-stations], ConjuringCommonPlugin [conjuring], REIServerIntegration [spectrum], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[03:09:50] [Worker-Main-3/INFO]: [REI] Reloaded Plugin Manager [REIPlugin] with 2 entry types, 5 item comparators, 0 fluid comparators and 2 fluid support providers in 45ms.
+[03:09:50] [Worker-Main-3/INFO]: [REI] Reloaded Plugin Manager [REIServerPlugin] with 0 menu infos in 5ms.
+[03:09:50] [Worker-Main-3/INFO]: [REI] Reloading Plugin Manager [REIPlugin] stage [END], registered 8 plugins: DefaultRuntimePlugin [roughlyenoughitems], AdornReiServer [adorn], DBServerPlugin [decorative_blocks], ImprovedStationsREIContainerInfo [improved-stations], ConjuringCommonPlugin [conjuring], REIServerIntegration [spectrum], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[03:09:50] [Worker-Main-3/INFO]: [REI] Reloading Plugin Manager [REIServerPlugin] stage [END], registered 8 plugins: DefaultRuntimePlugin [roughlyenoughitems], AdornReiServer [adorn], DBServerPlugin [decorative_blocks], ImprovedStationsREIContainerInfo [improved-stations], ConjuringCommonPlugin [conjuring], REIServerIntegration [spectrum], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[03:09:50] [Worker-Main-3/INFO]: [REI] Reloaded Plugin Manager [REIPlugin] with 2 entry types, 5 item comparators, 0 fluid comparators and 2 fluid support providers in 47ms.
+[03:09:50] [Worker-Main-3/INFO]: [REI] Reloaded Plugin Manager [REIServerPlugin] with 6 menu infos in 15ms.
+[03:09:50] [Worker-Main-3/INFO]: Reloading graveyard
+[03:09:50] [Worker-Main-3/INFO]: Reloading custom grave areas
+[03:09:50] [Worker-Main-3/INFO]: Reloading grave shape (server side)
+[03:09:50] [Worker-Main-3/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_0
+[03:09:50] [Worker-Main-3/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_1
+[03:09:51] [Worker-Main-3/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_2
+[03:09:51] [Worker-Main-3/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_3
+[03:09:51] [Worker-Main-3/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_0
+[03:09:51] [Worker-Main-3/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_1
+[03:09:51] [Worker-Main-3/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_2
+[03:09:51] [Worker-Main-3/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_3
+[03:09:57] [main/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_0
+[03:09:57] [main/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_1
+[03:09:57] [main/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_2
+[03:09:57] [main/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_3
+[03:09:57] [main/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_0
+[03:09:57] [main/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_1
+[03:09:57] [main/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_2
+[03:09:57] [main/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_3
+[03:09:57] [main/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_0
+[03:09:57] [main/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_1
+[03:09:57] [main/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_2
+[03:09:57] [main/INFO]: 7578 biome parameter points were mapped for BYG region: byg:region_3
+[03:09:57] [main/INFO]: "./config/byg/nether-biomes.json5" was read.
+[03:09:57] [main/INFO]: "./config/byg/end-biomes.json5" was read.
+[03:09:57] [main/INFO]: Applied 11577 biome modifications to 175 of 175 new biomes in 332.9 ms
+[03:09:57] [main/INFO]: "./config/byg/surface_rules/end_surface_rules.json5" was read.
+[03:09:57] [main/INFO]: "./config/byg/surface_rules/nether_surface_rules.json5" was read.
+[03:09:57] [main/INFO]: "./config/byg/surface_rules/overworld_surface_rules.json5" was read.
+[03:09:57] [Server thread/INFO]: [megane] Loaded Config.
+[03:09:58] [Server thread/INFO]: Loaded FTB Teams - 3 known players
+[03:10:00] [Server thread/INFO]: Adding waystone waystones:village_waystone to village minecraft:village/savanna/houses
+[03:10:00] [Server thread/INFO]: Adding waystone waystones:village_waystone to village minecraft:village/snowy/houses
+[03:10:00] [Server thread/INFO]: Adding waystone waystones:village_waystone to village minecraft:village/plains/houses
+[03:10:00] [Server thread/INFO]: Adding waystone waystones:desert_village_waystone to village minecraft:village/desert/houses
+[03:10:00] [Server thread/INFO]: Adding waystone waystones:village_waystone to village minecraft:village/taiga/houses
+[03:10:00] [Server thread/INFO]: [WTHIT] Plugin config reloaded
+[03:10:00] [Server thread/INFO]: "Oh The Biomes You'll Go" after registries freeze event firing...
+[03:10:00] [Server thread/INFO]: BYG: "Common Setup" Event Complete!
+[03:10:00] [Server thread/INFO]: "./config/byg/growing-patterns.json5" was read.
+[03:10:00] [Server thread/INFO]: "./config/byg/trades.json5" was read.
+[03:10:00] [Server thread/INFO]: "./config/byg/biomepedia.json5" was read.
+[03:10:00] [Server thread/INFO]: Created compressed zip back up for "./config/byg" in "./config/byg/backups/last_working_configs_backup.zip"
+[03:10:00] [Server thread/INFO]: BYG: Compostible Blocks Added!
+[03:10:00] [Server thread/INFO]: BYG: Added tillables!
+[03:10:00] [Server thread/INFO]: BYG: Added Flammables!
+[03:10:00] [Server thread/INFO]: BYG: Added strippable Blocks...
+[03:10:00] [Server thread/INFO]: BYG: "Load Complete" Event Complete!
+[03:10:00] [Server thread/INFO]: "Oh The Biomes You'll Go" after registries freeze event complete!
+[03:10:00] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[03:10:00] [Server thread/INFO]: Loading properties
+[03:10:00] [Server thread/INFO]: Default game type: SURVIVAL
+[03:10:00] [Server thread/INFO]: Generating keypair
+[03:10:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:10:00] [Server thread/INFO]: Using epoll channel type
+[03:10:02] [Server thread/INFO]: Preparing level "world"
+[03:10:02] [Server thread/INFO]: "./config/byg/surface_rules/end_surface_rules.json5" was read.
+[03:10:02] [Server thread/INFO]: "./config/byg/surface_rules/nether_surface_rules.json5" was read.
+[03:10:02] [Server thread/INFO]: "./config/byg/surface_rules/overworld_surface_rules.json5" was read.
+[03:10:02] [Server thread/INFO]: Loading dimension "minecraft:the_nether" with biome source: "byg:nether".
+[03:10:02] [Server thread/INFO]: "./config/byg/surface_rules/end_surface_rules.json5" was read.
+[03:10:02] [Server thread/INFO]: "./config/byg/surface_rules/nether_surface_rules.json5" was read.
+[03:10:02] [Server thread/INFO]: "./config/byg/surface_rules/overworld_surface_rules.json5" was read.
+[03:10:02] [Server thread/INFO]: Loading dimension "minecraft:the_end" with biome source: "byg:end".
+[03:10:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:10:03] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[03:10:03] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[03:10:03] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[03:10:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[03:10:04] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[03:10:05] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[03:10:05] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[03:10:06] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[03:10:06] [Worker-Main-8/INFO]: Preparing spawn area: 3%
+[03:10:07] [Worker-Main-3/INFO]: Preparing spawn area: 7%
+[03:10:07] [Worker-Main-7/INFO]: Preparing spawn area: 13%
+[03:10:08] [Worker-Main-4/INFO]: Preparing spawn area: 14%
+[03:10:08] [Worker-Main-8/INFO]: Preparing spawn area: 32%
+[03:10:09] [Worker-Main-7/INFO]: Preparing spawn area: 71%
+[03:10:09] [Server thread/INFO]: Time elapsed: 7129 ms
+[03:10:09] [Server thread/INFO]: Done (7.763s)! For help, type "help"
+[03:10:09] [Server thread/INFO]: Loading quests from /home/mc/AoF5/server/config/ftbquests/quests
+[03:10:09] [Server thread/INFO]: Loaded 6 chapter groups, 19 chapters, 861 quests, 1 reward tables
+[03:10:09] [Server thread/INFO]: Saving Dank Contents
+[03:10:09] [Server thread/INFO]: Loaded data from grave data file
+[03:10:09] [Server thread/INFO]: Loaded values for 56 compatible attributes.
+[03:10:09] [Server thread/INFO]: Loaded 56 values from config.
+[03:10:09] [Server thread/INFO]: Saving config file. 56 entries.
+[03:10:09] [Server thread/INFO]: Applying changes for 56 attributes.
+[03:10:15] [User Authenticator #1/INFO]: UUID of player Luducium is eb09f8b8-089b-4c8e-9433-3874814ac279
+[03:10:15] [Server thread/INFO]: [Handshake] Sending channel query
+[03:10:15] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[03:10:15] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[03:10:15] [Netty Epoll Server IO #2/INFO]: [STDOUT]: Understood response from client in thonkutil:universal_packet
+[03:10:15] [Server thread/INFO]: Luducium[/192.168.1.1:8533] logged in with entity id 95 at (100.30000001192093, 148.0, 656.8527231706672)
+[03:10:16] [Server thread/INFO]: Luducium joined the game
+[03:10:17] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Luducium. Normal: GRAVE / Robbing: INVENTORY
+[03:10:17] [Netty Epoll Server IO #2/INFO]: [ShulkerBoxTooltip] Luducium: protocol version: 2.0
+[03:10:22] [Server thread/INFO]: [ShulkerBoxTooltip] Loading 2 plugins: inmis, shulkerboxtooltip
+[03:10:22] [Server thread/INFO]: [ShulkerBoxTooltip] Registered 2 providers for mod inmis
+[03:10:22] [Server thread/INFO]: [ShulkerBoxTooltip] Registered 7 providers for mod shulkerboxtooltip
+[03:10:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6969ms or 139 ticks behind
+[03:10:25] [Server thread/INFO]: Silk not found, not loading compatibility for fluids.
+[03:10:28] [User Authenticator #2/INFO]: UUID of player lilB2k is bb3c1581-b353-44f8-8841-eb3fcd2393ce
+[03:10:28] [Server thread/INFO]: [Handshake] Sending channel query
+[03:10:28] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[03:10:28] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[03:10:28] [Netty Epoll Server IO #4/INFO]: [STDOUT]: Understood response from client in thonkutil:universal_packet
+[03:10:29] [Server thread/INFO]: lilB2k[/69.130.88.98:57972] logged in with entity id 120 at (1837.3003129003241, 85.0, 420.69999998807907)
+[03:10:29] [Server thread/INFO]: lilB2k joined the game
+[03:10:29] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player lilB2k. Normal: GRAVE / Robbing: INVENTORY
+[03:10:29] [Netty Epoll Server IO #4/INFO]: [ShulkerBoxTooltip] lilB2k: protocol version: 2.0
+[03:10:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2699ms or 53 ticks behind
+[03:11:07] [User Authenticator #3/INFO]: UUID of player 1cumfart is dd7dfcdd-8f39-44c5-b419-8e379b1a6dbf
+[03:11:07] [Server thread/INFO]: [Handshake] Sending channel query
+[03:11:07] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[03:11:07] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[03:11:07] [Netty Epoll Server IO #6/INFO]: [STDOUT]: Understood response from client in thonkutil:universal_packet
+[03:11:07] [Server thread/INFO]: 1cumfart[/96.41.196.216:55168] logged in with entity id 509 at (1677.8610306123046, 87.27231729067802, 553.2392325738089)
+[03:11:07] [Server thread/INFO]: 1cumfart joined the game
+[03:11:07] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player 1cumfart. Normal: GRAVE / Robbing: INVENTORY
+[03:11:08] [Netty Epoll Server IO #6/INFO]: [ShulkerBoxTooltip] 1cumfart: protocol version: 2.0
+[03:11:10] [Server thread/INFO]: Luducium lost connection: Disconnected
+[03:11:10] [Server thread/INFO]: Luducium left the game
+[03:12:12] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved wrongly! 0.5729308186593585
+[03:12:12] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved wrongly! 1.432186022662222
+[03:12:20] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved wrongly! 0.31355046990267965
+[03:12:20] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved wrongly! 0.664143497625048
+[03:13:04] [Server thread/INFO]: lilB2k has made the advancement [Eye Spy]
+[03:13:05] [Server thread/INFO]: 1cumfart has made the advancement [Eye Spy]
+[03:15:04] [Server thread/WARN]: Spell spell.arcanus.lunge is already known!
+[03:15:09] [Server thread/WARN]: Spell spell.arcanus.lunge is already known!
+[03:15:16] [Server thread/WARN]: lilB2k moved wrongly!
+[03:15:19] [Server thread/INFO]: Saving Dank Contents
+[03:17:58] [Server thread/WARN]: Spell spell.arcanus.telekinetic_shock is already known!
+[03:20:19] [Server thread/INFO]: Saving Dank Contents
+[03:20:36] [Server thread/INFO]: 1cumfart has reached the goal [Postmortal]
+[03:22:27] [Server thread/INFO]: Saving Dank Contents
+[03:22:36] [Server thread/INFO]: Saving Dank Contents
+[03:23:12] [Server thread/INFO]: lilB2k has made the advancement [The End?]
+[03:23:12] [Server thread/INFO]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[03:23:14] [Server thread/INFO]: 1cumfart has made the advancement [The End?]
+[03:23:14] [Server thread/INFO]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[03:23:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3607ms or 72 ticks behind
+[03:23:15] [Server thread/WARN]: 1cumfart moved too quickly! -1752.8533532192873,36.46415937495544,-267.86533380819515
+[03:23:25] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[03:23:25] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[03:24:59] [Server thread/INFO]: lilB2k has reached the goal [Postmortal]
+[03:25:23] [Server thread/INFO]: Saving Dank Contents
+[03:25:31] [Server thread/INFO]: 1cumfart was killed by Ender Dragon using magic
+[03:25:31] [Server thread/INFO]: Grave spawned at: -3, 63, 5 | the_end
+[03:27:52] [Server thread/INFO]: Saving Dank Contents
+[03:27:52] [Server thread/INFO]: Saving grave backup data
+[03:27:54] [Server thread/INFO]: Teleporting...
+[03:28:01] [Server thread/INFO]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[03:28:02] [Server thread/WARN]: 1cumfart moved too quickly! -1752.8741385371527,36.37870315946081,-268.3916525550543
+[03:28:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[03:28:25] [Server thread/INFO]: Grave at -3, 63, 5 was replaced with Block{minecraft:air}
+[03:28:25] [Server thread/INFO]: 1cumfart is retrieving their grave at -3, 63, 5
+[03:28:25] [Server thread/INFO]: 1cumfart retrieved the items from the grave
+[03:30:25] [Server thread/INFO]: Saving Dank Contents
+[03:30:25] [Server thread/INFO]: Saving grave backup data
+[03:31:43] [Server thread/INFO]: 1cumfart was killed by [Intentional Game Design]
+[03:31:43] [Server thread/INFO]: Grave spawned at: -3, 63, 3 | the_end
+[03:32:30] [Server thread/WARN]: lilB2k moved too quickly! -8.399233424702597,0.0,-5.7379557924685525
+[03:32:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2706ms or 54 ticks behind
+[03:33:19] [Server thread/INFO]: Teleporting...
+[03:33:25] [Server thread/INFO]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[03:33:43] [Server thread/INFO]: lilB2k has made the advancement [Free the End]
+[03:33:47] [Server thread/INFO]: Grave at -3, 63, 3 was replaced with Block{minecraft:air}
+[03:33:47] [Server thread/INFO]: 1cumfart is retrieving their grave at -3, 63, 3
+[03:33:47] [Server thread/INFO]: 1cumfart retrieved the items from the grave
+[03:35:27] [Server thread/INFO]: Saving Dank Contents
+[03:35:27] [Server thread/INFO]: Saving grave backup data
+[03:36:54] [Server thread/INFO]: 1cumfart has made the advancement [Remote Getaway]
+[03:36:56] [Server thread/INFO]: lilB2k has made the advancement [Remote Getaway]
+[03:37:21] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved too quickly! 0.5815127933501003,1.9431883561608743,14.552786215189144
+[03:37:21] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved too quickly! 0.6534136386306386,1.7528527000976482,12.865920658964683
+[03:37:22] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved too quickly! 1.027294499986283,2.4931034038629605,18.19213090289213
+[03:37:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[03:39:08] [Server thread/INFO]: lilB2k has made the advancement [Bounty Box]
+[03:40:02] [Server thread/INFO]: 1cumfart has completed the challenge [Socialised Loot]
+[03:40:02] [Server thread/INFO]: 1cumfart has made the advancement [Bounty Box]
+[03:40:29] [Server thread/INFO]: Saving Dank Contents
+[03:40:46] [Server thread/INFO]: 1cumfart has made the advancement [Who is Cutting Onions?]
+[03:45:29] [Server thread/INFO]: Saving Dank Contents
+[03:45:33] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved too quickly! 8.131857300828415,-3.1965997181157064,5.4010924734229775
+[03:45:33] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved too quickly! 8.78951780916509,-3.457295119158843,5.880398646868343
+[03:45:33] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved too quickly! 9.443545314472885,-3.717270987380516,6.364578068662468
+[03:45:33] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved too quickly! 10.093587357245497,-3.9765558162669947,6.853979133527673
+[03:45:46] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved too quickly! 0.38100624047706333,1.0201392847546913,10.556066189143621
+[03:45:46] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved too quickly! 0.806495726683579,1.9431883561608743,19.98862698401149
+[03:45:46] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved too quickly! 1.2716553725751965,2.7729919848523394,28.41924563938869
+[03:45:46] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved too quickly! 1.8817130584156985,1.031759378152472,13.030202386743895
+[03:46:40] [User Authenticator #4/INFO]: UUID of player 1cumfart is dd7dfcdd-8f39-44c5-b419-8e379b1a6dbf
+[03:46:40] [Server thread/INFO]: [Handshake] Sending channel query
+[03:46:40] [Netty Epoll Server IO #9/INFO]: [Handshake] Receiving client channels
+[03:46:40] [Netty Epoll Server IO #9/INFO]: [Handshake] Handshake completed successfully
+[03:46:40] [Netty Epoll Server IO #9/INFO]: [STDOUT]: Understood response from client in thonkutil:universal_packet
+[03:46:40] [Server thread/INFO]: 1cumfart lost connection: You logged in from another location
+[03:46:40] [Server thread/INFO]: 1cumfart left the game
+[03:46:41] [Server thread/WARN]: handleDisconnection() called twice
+[03:46:41] [Server thread/INFO]: 1cumfart[/96.41.196.216:49426] logged in with entity id 8573 at (1634.289354787996, 82.32830387452903, -1505.192129593307)
+[03:46:41] [Server thread/INFO]: 1cumfart joined the game
+[03:47:20] [Server thread/INFO]: 1cumfart lost connection: Disconnected
+[03:47:20] [Server thread/INFO]: 1cumfart left the game
+[03:47:22] [User Authenticator #5/INFO]: UUID of player 1cumfart is dd7dfcdd-8f39-44c5-b419-8e379b1a6dbf
+[03:47:22] [Server thread/INFO]: [Handshake] Sending channel query
+[03:47:22] [Netty Epoll Server IO #10/INFO]: [Handshake] Receiving client channels
+[03:47:22] [Netty Epoll Server IO #10/INFO]: [Handshake] Handshake completed successfully
+[03:47:22] [Netty Epoll Server IO #10/INFO]: [STDOUT]: Understood response from client in thonkutil:universal_packet
+[03:47:22] [Server thread/INFO]: 1cumfart[/96.41.196.216:49487] logged in with entity id 8679 at (1634.289354787996, 82.32830387452903, -1505.192129593307)
+[03:47:22] [Server thread/INFO]: 1cumfart joined the game
+[03:47:45] [Server thread/INFO]: 1cumfart lost connection: Disconnected
+[03:47:45] [Server thread/INFO]: 1cumfart left the game
+[03:50:29] [Server thread/INFO]: Saving Dank Contents
+[03:51:03] [User Authenticator #6/INFO]: UUID of player 1cumfart is dd7dfcdd-8f39-44c5-b419-8e379b1a6dbf
+[03:51:03] [Server thread/INFO]: [Handshake] Sending channel query
+[03:51:03] [Netty Epoll Server IO #12/INFO]: [Handshake] Receiving client channels
+[03:51:03] [Netty Epoll Server IO #12/INFO]: [Handshake] Handshake completed successfully
+[03:51:03] [Netty Epoll Server IO #12/INFO]: [STDOUT]: Understood response from client in thonkutil:universal_packet
+[03:51:03] [Server thread/INFO]: 1cumfart[/96.41.196.216:49921] logged in with entity id 9155 at (1634.289354787996, 82.32830387452903, -1505.192129593307)
+[03:51:03] [Server thread/INFO]: 1cumfart joined the game
+[03:51:06] [Netty Epoll Server IO #12/INFO]: Priority overwritten for player 1cumfart. Normal: GRAVE / Robbing: INVENTORY
+[03:51:06] [Netty Epoll Server IO #12/INFO]: [ShulkerBoxTooltip] 1cumfart: protocol version: 2.0
+[03:52:31] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved too quickly! 0.46216928855074,1.0201392847546913,11.041782778730294
+[03:52:31] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved too quickly! 0.9574546607805132,1.9431883561608743,20.860826904999612
+[03:52:31] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved too quickly! 1.4822729572861135,2.7729919848523394,29.589432669577718
+[03:52:32] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved too quickly! 1.2451985323500594,0.9084387216343117,10.236516458516917
+[03:52:32] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved too quickly! 1.9357475220203924,1.031759378152472,12.845880394978167
+[03:54:17] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved too quickly! 0.15523413879827785,1.7429954933387677,14.993996531412222
+[03:54:17] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved too quickly! 0.21278417775101843,1.55651690953151,13.53152643417593
+[03:54:18] [Server thread/WARN]: Żar-ptak (vehicle of 1cumfart) moved too quickly! 0.35693476510277833,2.2013592603826453,19.337765106308098
+[03:55:29] [Server thread/INFO]: Saving Dank Contents
+[03:57:17] [Server thread/INFO]: 1cumfart has made the advancement [The City at the End of the Game]
+[03:57:18] [Server thread/INFO]: lilB2k has made the advancement [The City at the End of the Game]
+[03:57:25] [Server thread/INFO]: 1cumfart has made the advancement [Local Brewery]
+[03:58:37] [Server thread/INFO]: 1cumfart has made the advancement [Imitation Air]
+[03:59:20] [Server thread/INFO]: 1cumfart fell from a high place
+[03:59:20] [Server thread/INFO]: Grave spawned at: 4242, 141, -2813 | the_end
+[04:00:29] [Server thread/INFO]: Saving Dank Contents
+[04:00:29] [Server thread/INFO]: Saving grave backup data
+[04:01:06] [Server thread/INFO]: Teleporting...
+[04:01:11] [Server thread/INFO]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[04:01:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[04:02:01] [Server thread/WARN]: lilB2k moved too quickly! -7.089161650548704,1.0,7.249558259887181
+[04:02:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8228ms or 164 ticks behind
+[04:02:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
+[04:02:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04:03:51] [Server thread/INFO]: 1cumfart was slain by Enderwarthog
+[04:03:51] [Server thread/INFO]: Grave spawned at: 932, 61, -1211 | the_end
+[04:05:43] [Server thread/INFO]: Teleporting...
+[04:05:43] [Server thread/INFO]: Saving Dank Contents
+[04:05:43] [Server thread/INFO]: Saving grave backup data
+[04:05:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[04:05:49] [Server thread/INFO]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[04:05:50] [Server thread/WARN]: 1cumfart moved too quickly! -1752.6716210019492,36.37870315946081,-267.81975549528437
+[04:06:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[04:07:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[04:08:00] [Netty Epoll Server IO #13/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: readAddress(..) failed: Connection reset by peer
+[04:08:05] [Netty Epoll Server IO #14/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: readAddress(..) failed: Connection reset by peer
+[04:08:35] [Server thread/INFO]: Grave at 932, 61, -1211 was replaced with Block{minecraft:air}
+[04:08:35] [Server thread/INFO]: 1cumfart is retrieving their grave at 932, 61, -1211
+[04:08:35] [Server thread/INFO]: 1cumfart retrieved the items from the grave
+[04:09:28] [Server thread/INFO]: 1cumfart fell from a high place
+[04:09:28] [Server thread/INFO]: Grave spawned at: 1188, 39, -1310 | the_end
+[04:10:14] [Server thread/INFO]: lilB2k has completed the challenge [Great View From Up Here]
+[04:10:31] [Server thread/INFO]: Teleporting...
+[04:10:37] [Server thread/INFO]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[04:10:37] [Server thread/WARN]: 1cumfart moved too quickly! -1752.3872205189266,36.37870315946081,-268.15919698566364
+[04:10:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[04:10:54] [Server thread/INFO]: Saving Dank Contents
+[04:10:54] [Server thread/INFO]: Saving grave backup data
+[04:11:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04:15:54] [Server thread/INFO]: Saving Dank Contents
+[04:16:48] [Server thread/INFO]: 1cumfart fell out of the world
+[04:16:48] [Server thread/INFO]: Grave spawned at: 1843, 3, -1614 | the_end
+[04:17:52] [Server thread/INFO]: Teleporting...
+[04:17:59] [Server thread/INFO]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[04:18:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16584ms or 331 ticks behind
+[04:19:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[04:20:51] [Server thread/INFO]: lilB2k lost connection: Disconnected
+[04:20:51] [Server thread/INFO]: lilB2k left the game
+[04:21:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[04:21:14] [Server thread/INFO]: Saving Dank Contents
+[04:21:14] [Server thread/INFO]: Saving grave backup data
+[04:21:23] [Server thread/INFO]: 1cumfart was slain by Enderman
+[04:21:23] [Server thread/INFO]: Grave spawned at: 877, 59, -1378 | the_end
+[04:21:26] [Server thread/INFO]: 1cumfart lost connection: Disconnected
+[04:21:26] [Server thread/INFO]: 1cumfart left the game
+[04:26:14] [Server thread/INFO]: Saving Dank Contents
+[04:26:14] [Server thread/INFO]: Saving grave backup data
+[04:31:08] [User Authenticator #7/INFO]: UUID of player lilB2k is bb3c1581-b353-44f8-8841-eb3fcd2393ce
+[04:31:08] [Server thread/INFO]: [Handshake] Sending channel query
+[04:31:08] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[04:31:08] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[04:31:08] [Netty Epoll Server IO #1/INFO]: [STDOUT]: Understood response from client in thonkutil:universal_packet
+[04:31:08] [Server thread/INFO]: lilB2k[/69.130.88.98:58460] logged in with entity id 22491 at (4244.199999988079, 141.0, -2814.1164850163786)
+[04:31:08] [Server thread/INFO]: lilB2k joined the game
+[04:31:09] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player lilB2k. Normal: GRAVE / Robbing: INVENTORY
+[04:31:09] [Netty Epoll Server IO #1/INFO]: [ShulkerBoxTooltip] lilB2k: protocol version: 2.0
+[04:31:14] [Server thread/INFO]: Saving Dank Contents
+[04:36:14] [Server thread/INFO]: Saving Dank Contents
+[04:39:55] [User Authenticator #8/INFO]: UUID of player 1cumfart is dd7dfcdd-8f39-44c5-b419-8e379b1a6dbf
+[04:39:55] [Server thread/INFO]: [Handshake] Sending channel query
+[04:39:55] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[04:39:55] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[04:39:55] [Netty Epoll Server IO #3/INFO]: [STDOUT]: Understood response from client in thonkutil:universal_packet
+[04:39:55] [Server thread/INFO]: 1cumfart[/96.41.196.216:51712] logged in with entity id 22868 at (279.5, 63.0, 843.5)
+[04:39:55] [Server thread/INFO]: 1cumfart joined the game
+[04:39:58] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player 1cumfart. Normal: GRAVE / Robbing: INVENTORY
+[04:39:58] [Netty Epoll Server IO #3/INFO]: [ShulkerBoxTooltip] 1cumfart: protocol version: 2.0
+[04:41:14] [Server thread/INFO]: Saving Dank Contents
+[04:46:14] [Server thread/INFO]: Saving Dank Contents
+[04:51:14] [Server thread/INFO]: Saving Dank Contents
+[04:56:14] [Server thread/INFO]: Saving Dank Contents
+[05:01:14] [Server thread/INFO]: Saving Dank Contents
+[05:01:25] [Server thread/INFO]: 1cumfart has made the advancement [Potted]
+[05:06:14] [Server thread/INFO]: Saving Dank Contents
+[05:07:49] [Server thread/INFO]: 1cumfart has made the advancement [Sadly, Won't Give More FPS]
+[05:11:09] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: readAddress(..) failed: Connection reset by peer
+[05:11:09] [Server thread/INFO]: lilB2k lost connection: Disconnected
+[05:11:09] [Server thread/INFO]: lilB2k left the game
+[05:11:14] [Server thread/INFO]: Saving Dank Contents
+[05:12:33] [User Authenticator #9/INFO]: UUID of player lilB2k is bb3c1581-b353-44f8-8841-eb3fcd2393ce
+[05:12:33] [Server thread/INFO]: [Handshake] Sending channel query
+[05:12:34] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[05:12:34] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[05:12:34] [Netty Epoll Server IO #5/INFO]: [STDOUT]: Understood response from client in thonkutil:universal_packet
+[05:12:34] [Server thread/INFO]: lilB2k[/69.130.88.98:60480] logged in with entity id 28984 at (4242.300000011921, 141.1875, -2812.612500011921)
+[05:12:34] [Server thread/INFO]: lilB2k joined the game
+[05:12:35] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player lilB2k. Normal: GRAVE / Robbing: INVENTORY
+[05:12:35] [Netty Epoll Server IO #5/INFO]: [ShulkerBoxTooltip] lilB2k: protocol version: 2.0
+[05:16:14] [Server thread/INFO]: Saving Dank Contents
+[05:17:27] [Server thread/WARN]: 1cumfart moved too quickly! -0.11677718815448657,86.73000001311303,-0.011684278441066454
+[05:17:56] [Server thread/INFO]: Assigning ME player id 1 to Minecraft profile dd7dfcdd-8f39-44c5-b419-8e379b1a6dbf (1cumfart)
+[05:20:27] [Server thread/INFO]: 1cumfart has made the advancement [Can't Be Used as a Weapon]
+[05:21:14] [Server thread/INFO]: Saving Dank Contents
+[05:22:47] [Server thread/INFO]: New Schematic Uploaded: 1cumfart/windimill_powerhouse.nbt
+[05:26:14] [Server thread/INFO]: Saving Dank Contents
+[05:30:22] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[05:31:05] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[05:31:14] [Server thread/INFO]: Saving Dank Contents
+[05:35:20] [Server thread/INFO]: 1cumfart has made the advancement [A Deadly Weapon For... Crushing]
+[05:36:14] [Server thread/INFO]: Saving Dank Contents
+[05:36:51] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: readAddress(..) failed: Connection reset by peer
+[05:36:51] [Server thread/INFO]: 1cumfart lost connection: Disconnected
+[05:36:51] [Server thread/INFO]: 1cumfart left the game
+[05:36:52] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: readAddress(..) failed: Connection reset by peer
+[05:36:52] [Server thread/INFO]: lilB2k lost connection: Disconnected
+[05:36:52] [Server thread/INFO]: lilB2k left the game
+[05:37:20] [User Authenticator #10/INFO]: Disconnecting /69.130.88.98:49282: Failed to verify username!
+[05:37:20] [User Authenticator #11/INFO]: UUID of player lilB2k is bb3c1581-b353-44f8-8841-eb3fcd2393ce
+[05:37:20] [User Authenticator #10/ERROR]: Username 'lilB2k' tried to join with an invalid session
+[05:37:20] [Server thread/INFO]: [Handshake] Sending channel query
+[05:37:20] [Server thread/INFO]: /69.130.88.98:49282 lost connection: Failed to verify username!
+[05:37:20] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[05:37:20] [Netty Epoll Server IO #7/INFO]: Disconnecting com.mojang.authlib.GameProfile@327b7845[id=bb3c1581-b353-44f8-8841-eb3fcd2393ce,name=lilB2k,properties={textures=[com.mojang.authlib.properties.Property@3926b084]},legacy=false] (/69.130.88.98:49280): [oωo] §chandshake failure
+incompatible client
+[05:37:20] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake failed, client did not respond to channel query
+[05:37:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@327b7845[id=bb3c1581-b353-44f8-8841-eb3fcd2393ce,name=lilB2k,properties={textures=[com.mojang.authlib.properties.Property@3926b084]},legacy=false] (/69.130.88.98:49280) lost connection: [oωo] §chandshake failure
+incompatible client
+[05:37:20] [User Authenticator #12/INFO]: UUID of player 1cumfart is dd7dfcdd-8f39-44c5-b419-8e379b1a6dbf
+[05:37:20] [Server thread/INFO]: [Handshake] Sending channel query
+[05:37:20] [Netty Epoll Server IO #9/INFO]: [Handshake] Receiving client channels
+[05:37:20] [Netty Epoll Server IO #9/INFO]: [Handshake] Handshake completed successfully
+[05:37:21] [Netty Epoll Server IO #9/INFO]: [STDOUT]: Understood response from client in thonkutil:universal_packet
+[05:37:21] [Server thread/INFO]: 1cumfart[/96.41.196.216:63630] logged in with entity id 34225 at (282.35286118461045, 63.0, 842.5655523413147)
+[05:37:21] [Server thread/INFO]: 1cumfart joined the game
+[05:37:21] [Netty Epoll Server IO #9/INFO]: Priority overwritten for player 1cumfart. Normal: GRAVE / Robbing: INVENTORY
+[05:37:22] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[05:37:22] [User Authenticator #13/INFO]: UUID of player 1cumfart is dd7dfcdd-8f39-44c5-b419-8e379b1a6dbf
+[05:37:22] [Server thread/INFO]: [Handshake] Sending channel query
+[05:37:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@761bb810[id=dd7dfcdd-8f39-44c5-b419-8e379b1a6dbf,name=1cumfart,properties={textures=[com.mojang.authlib.properties.Property@60ba69fd]},legacy=false] (/96.41.196.216:63621) lost connection: Disconnected
+[05:37:32] [Netty Epoll Server IO #9/INFO]: [ShulkerBoxTooltip] 1cumfart: protocol version: 2.0
+[05:37:33] [User Authenticator #14/INFO]: UUID of player lilB2k is bb3c1581-b353-44f8-8841-eb3fcd2393ce
+[05:37:33] [Server thread/INFO]: [Handshake] Sending channel query
+[05:37:33] [Netty Epoll Server IO #12/INFO]: [Handshake] Receiving client channels
+[05:37:33] [Netty Epoll Server IO #12/INFO]: [Handshake] Handshake completed successfully
+[05:37:33] [Netty Epoll Server IO #12/INFO]: [STDOUT]: Understood response from client in thonkutil:universal_packet
+[05:37:33] [Server thread/INFO]: lilB2k[/69.130.88.98:49308] logged in with entity id 34719 at (4242.300000011921, 141.0625, -2812.696856556647)
+[05:37:33] [Server thread/INFO]: lilB2k joined the game
+[05:37:33] [Netty Epoll Server IO #12/INFO]: Priority overwritten for player lilB2k. Normal: GRAVE / Robbing: INVENTORY
+[05:37:34] [Netty Epoll Server IO #12/INFO]: [ShulkerBoxTooltip] lilB2k: protocol version: 2.0
+[05:41:14] [Server thread/INFO]: Saving Dank Contents
+[05:45:45] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[05:46:14] [Server thread/INFO]: Saving Dank Contents
+[05:51:14] [Server thread/INFO]: Saving Dank Contents
+[05:51:35] [Server thread/WARN]: Boat (vehicle of 1cumfart) moved wrongly! 0.35584955841227384
+[05:51:35] [Server thread/WARN]: Boat (vehicle of 1cumfart) moved wrongly! 0.6966539838613244
+[05:51:38] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[05:53:17] [Server thread/INFO]: 1cumfart has made the advancement [Packed Up]
+[05:53:40] [Server thread/INFO]: 1cumfart has made the advancement [advancements.fishing.astral_crate.title]
+[05:54:58] [Server thread/INFO]: 1cumfart has made the advancement [Modern Illumination]
+[05:56:14] [Server thread/INFO]: Saving Dank Contents
+[06:01:14] [Server thread/INFO]: Saving Dank Contents
+[06:06:14] [Server thread/INFO]: Saving Dank Contents
+[06:07:10] [Server thread/INFO]: 1cumfart has made the advancement [The Power of Silicon]
+[06:10:46] [Server thread/INFO]: Grave at 4242, 141, -2813 was replaced with Block{minecraft:air}
+[06:10:46] [Server thread/INFO]: lilB2k is retrieving someone else's grave at 4242, 141, -2813
+[06:10:46] [Server thread/INFO]: lilB2k retrieved the items from the grave
+[06:10:46] [Server thread/INFO]: lilB2k has made the advancement [Imitation Air]
+[06:11:14] [Server thread/INFO]: Saving Dank Contents
+[06:11:14] [Server thread/INFO]: Saving grave backup data
+[06:11:43] [Server thread/INFO]: Saving Dank Contents
+[06:12:19] [Server thread/INFO]: [STDOUT]: (322.5, 144.0, 753.5)
+[06:12:23] [Server thread/WARN]: lilB2k moved too quickly! -3921.678767544451,3.0,3567.0541845991133
+[06:12:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3842ms or 76 ticks behind
+[06:16:18] [Server thread/INFO]: Saving Dank Contents
+[06:16:33] [Server thread/INFO]: lilB2k has made the advancement [Blue Cables!]
+[06:17:01] [Server thread/INFO]: lilB2k has made the advancement [Modern Illumination]
+[06:20:10] [Server thread/INFO]: lilB2k has made the advancement [Packed Up]
+[06:21:15] [Server thread/INFO]: [STDOUT]: (322.5, 144.0, 753.5)
+[06:21:15] [Server thread/WARN]: lilB2k moved too quickly! 39.077845571052364,81.0,-88.54501952577846
+[06:21:18] [Server thread/INFO]: Saving Dank Contents
+[06:26:18] [Server thread/INFO]: Saving Dank Contents
+[06:27:57] [Server thread/INFO]: lilB2k lost connection: Disconnected
+[06:27:57] [Server thread/INFO]: lilB2k left the game
+[06:31:18] [Server thread/INFO]: Saving Dank Contents
+[06:32:49] [Server thread/INFO]: 1cumfart lost connection: Disconnected
+[06:32:49] [Server thread/INFO]: 1cumfart left the game
+[06:36:18] [Server thread/INFO]: Saving Dank Contents
+[06:41:18] [Server thread/INFO]: Saving Dank Contents
+[06:46:18] [Server thread/INFO]: Saving Dank Contents
+[06:51:18] [Server thread/INFO]: Saving Dank Contents
+[06:56:18] [Server thread/INFO]: Saving Dank Contents
+[07:01:18] [Server thread/INFO]: Saving Dank Contents
+[07:06:18] [Server thread/INFO]: Saving Dank Contents
+[07:11:18] [Server thread/INFO]: Saving Dank Contents
+[07:16:18] [Server thread/INFO]: Saving Dank Contents
+[07:21:18] [Server thread/INFO]: Saving Dank Contents
+[07:26:18] [Server thread/INFO]: Saving Dank Contents
+[07:31:18] [Server thread/INFO]: Saving Dank Contents
+[07:36:18] [Server thread/INFO]: Saving Dank Contents
+[07:41:18] [Server thread/INFO]: Saving Dank Contents
+[07:46:18] [Server thread/INFO]: Saving Dank Contents
+[07:51:18] [Server thread/INFO]: Saving Dank Contents
+[07:56:18] [Server thread/INFO]: Saving Dank Contents
+[08:01:18] [Server thread/INFO]: Saving Dank Contents
+[08:06:18] [Server thread/INFO]: Saving Dank Contents
+[08:11:18] [Server thread/INFO]: Saving Dank Contents
+[08:16:18] [Server thread/INFO]: Saving Dank Contents
+[08:21:18] [Server thread/INFO]: Saving Dank Contents
+[08:26:18] [Server thread/INFO]: Saving Dank Contents
+[08:31:18] [Server thread/INFO]: Saving Dank Contents
+[08:36:18] [Server thread/INFO]: Saving Dank Contents
+[08:41:18] [Server thread/INFO]: Saving Dank Contents
+[08:46:18] [Server thread/INFO]: Saving Dank Contents
+[08:51:18] [Server thread/INFO]: Saving Dank Contents
+[08:56:18] [Server thread/INFO]: Saving Dank Contents
+[09:01:18] [Server thread/INFO]: Saving Dank Contents
+[09:06:18] [Server thread/INFO]: Saving Dank Contents
+[09:11:18] [Server thread/INFO]: Saving Dank Contents
+[09:16:18] [Server thread/INFO]: Saving Dank Contents
+[09:21:18] [Server thread/INFO]: Saving Dank Contents
+[09:26:18] [Server thread/INFO]: Saving Dank Contents
+[09:31:18] [Server thread/INFO]: Saving Dank Contents
+[09:36:18] [Server thread/INFO]: Saving Dank Contents
+[09:41:18] [Server thread/INFO]: Saving Dank Contents
+[09:46:18] [Server thread/INFO]: Saving Dank Contents
+[09:51:18] [Server thread/INFO]: Saving Dank Contents
+[09:56:18] [Server thread/INFO]: Saving Dank Contents
+[10:01:18] [Server thread/INFO]: Saving Dank Contents
+[10:06:18] [Server thread/INFO]: Saving Dank Contents
+[10:11:18] [Server thread/INFO]: Saving Dank Contents
+[10:16:18] [Server thread/INFO]: Saving Dank Contents
+[10:21:18] [Server thread/INFO]: Saving Dank Contents
+[10:26:18] [Server thread/INFO]: Saving Dank Contents
+[10:31:18] [Server thread/INFO]: Saving Dank Contents
+[10:36:18] [Server thread/INFO]: Saving Dank Contents
+[10:41:18] [Server thread/INFO]: Saving Dank Contents
+[10:46:18] [Server thread/INFO]: Saving Dank Contents
+[10:51:18] [Server thread/INFO]: Saving Dank Contents
+[10:56:18] [Server thread/INFO]: Saving Dank Contents
+[11:01:18] [Server thread/INFO]: Saving Dank Contents
+[11:06:18] [Server thread/INFO]: Saving Dank Contents
+[11:11:18] [Server thread/INFO]: Saving Dank Contents
+[11:16:18] [Server thread/INFO]: Saving Dank Contents
+[11:21:18] [Server thread/INFO]: Saving Dank Contents
+[11:26:18] [Server thread/INFO]: Saving Dank Contents
+[11:31:18] [Server thread/INFO]: Saving Dank Contents
+[11:36:18] [Server thread/INFO]: Saving Dank Contents
+[11:41:18] [Server thread/INFO]: Saving Dank Contents
+[11:46:18] [Server thread/INFO]: Saving Dank Contents
+[11:51:18] [Server thread/INFO]: Saving Dank Contents
+[11:56:18] [Server thread/INFO]: Saving Dank Contents
+[12:01:18] [Server thread/INFO]: Saving Dank Contents
+[12:06:18] [Server thread/INFO]: Saving Dank Contents
+[12:11:18] [Server thread/INFO]: Saving Dank Contents
+[12:16:18] [Server thread/INFO]: Saving Dank Contents
+[12:21:18] [Server thread/INFO]: Saving Dank Contents
+[12:26:18] [Server thread/INFO]: Saving Dank Contents
+[12:31:18] [Server thread/INFO]: Saving Dank Contents
+[12:36:18] [Server thread/INFO]: Saving Dank Contents
+[12:41:18] [Server thread/INFO]: Saving Dank Contents
+[12:46:18] [Server thread/INFO]: Saving Dank Contents
+[12:51:18] [Server thread/INFO]: Saving Dank Contents
+[12:56:18] [Server thread/INFO]: Saving Dank Contents
+[13:01:18] [Server thread/INFO]: Saving Dank Contents
+[13:06:18] [Server thread/INFO]: Saving Dank Contents
+[13:11:18] [Server thread/INFO]: Saving Dank Contents
+[13:16:18] [Server thread/INFO]: Saving Dank Contents
+[13:21:18] [Server thread/INFO]: Saving Dank Contents
+[13:26:18] [Server thread/INFO]: Saving Dank Contents
+[13:31:18] [Server thread/INFO]: Saving Dank Contents
+[13:36:18] [Server thread/INFO]: Saving Dank Contents
+[13:41:18] [Server thread/INFO]: Saving Dank Contents
+[13:46:18] [Server thread/INFO]: Saving Dank Contents
+[13:51:18] [Server thread/INFO]: Saving Dank Contents
+[13:56:18] [Server thread/INFO]: Saving Dank Contents
+[14:01:18] [Server thread/INFO]: Saving Dank Contents
+[14:06:18] [Server thread/INFO]: Saving Dank Contents
+[14:11:18] [Server thread/INFO]: Saving Dank Contents
+[14:16:18] [Server thread/INFO]: Saving Dank Contents
+[14:21:18] [Server thread/INFO]: Saving Dank Contents
+[14:26:18] [Server thread/INFO]: Saving Dank Contents
+[14:31:18] [Server thread/INFO]: Saving Dank Contents
+[14:36:18] [Server thread/INFO]: Saving Dank Contents
+[14:41:18] [Server thread/INFO]: Saving Dank Contents
+[14:46:18] [Server thread/INFO]: Saving Dank Contents
+[14:51:18] [Server thread/INFO]: Saving Dank Contents
+[14:56:18] [Server thread/INFO]: Saving Dank Contents
+[15:01:18] [Server thread/INFO]: Saving Dank Contents
+[15:06:18] [Server thread/INFO]: Saving Dank Contents
+[15:11:18] [Server thread/INFO]: Saving Dank Contents

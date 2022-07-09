@@ -1,0 +1,24 @@
+{
+	id: "6897a8ca-b6ca-4336-9c82-40d157a3433c"
+	type: "party"
+	owner: "bb3c1581-b353-44f8-8841-eb3fcd2393ce"
+	ranks: {
+		bb3c1581-b353-44f8-8841-eb3fcd2393ce: "owner"
+		dd7dfcdd-8f39-44c5-b419-8e379b1a6dbf: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "haha dumb"
+		"ftbteams:color": "#FF59B2"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1657346319576L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"lilB2k\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "bb3c1581-b353-44f8-8841-eb3fcd2393ce", date: 1657346319578L, text: "{\"color\":\"green\",\"text\":\"Invited 1cumfart\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1657346322795L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"1cumfart\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

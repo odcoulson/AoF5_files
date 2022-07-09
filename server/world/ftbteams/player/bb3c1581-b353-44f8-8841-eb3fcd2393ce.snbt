@@ -1,0 +1,17 @@
+{
+	id: "bb3c1581-b353-44f8-8841-eb3fcd2393ce"
+	type: "player"
+	player_name: "lilB2k"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "lilB2k"
+		"ftbteams:color": "#FF59B2"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

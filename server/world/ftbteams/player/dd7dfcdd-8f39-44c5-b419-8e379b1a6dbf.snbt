@@ -1,0 +1,17 @@
+{
+	id: "dd7dfcdd-8f39-44c5-b419-8e379b1a6dbf"
+	type: "player"
+	player_name: "1cumfart"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "1cumfart"
+		"ftbteams:color": "#CEFF59"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
